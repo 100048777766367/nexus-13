@@ -11,7 +11,9 @@
         "Prince",
         "Prince Rogers",
         "Often",
-        "one"
+        "one",
+        "The",
+        "Harvey Morning"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -19,6 +21,7 @@
         "Musée <==[des]==> Beaux-Arts Mulhouse:",
         "Originated <==[with]==> the Société",
         "Prince <==[(musician):]==> Prince Rogers",
-        "Often <==[credited]==> one"
+        "Often <==[credited]==> one",
+        "The <==[steve]==> Harvey Morning"
     ]
 }
