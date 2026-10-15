@@ -13,7 +13,9 @@
         "Often",
         "one",
         "The",
-        "Harvey Morning"
+        "Harvey Morning",
+        "Grizzly",
+        "(soundtrack): Grizzly"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -22,6 +24,7 @@
         "Originated <==[with]==> the Société",
         "Prince <==[(musician):]==> Prince Rogers",
         "Often <==[credited]==> one",
-        "The <==[steve]==> Harvey Morning"
+        "The <==[steve]==> Harvey Morning",
+        "Grizzly <==[man]==> (soundtrack): Grizzly"
     ]
 }
