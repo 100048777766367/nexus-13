@@ -15,7 +15,9 @@
         "The",
         "Harvey Morning",
         "Grizzly",
-        "(soundtrack): Grizzly"
+        "(soundtrack): Grizzly",
+        "Gonterie-boulouneix:",
+        "former commune"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -25,6 +27,7 @@
         "Prince <==[(musician):]==> Prince Rogers",
         "Often <==[credited]==> one",
         "The <==[steve]==> Harvey Morning",
-        "Grizzly <==[man]==> (soundtrack): Grizzly"
+        "Grizzly <==[man]==> (soundtrack): Grizzly",
+        "Gonterie-boulouneix: <==[gonterie-boulouneix]==> former commune"
     ]
 }
