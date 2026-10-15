@@ -1,9 +1,12 @@
 {
     "nodes": [
         "Eve",
-        "Eve Louise"
+        "Eve Louise",
+        "Trsino:",
+        "village the"
     ],
     "edges": [
-        "Eve <==[ewing:]==> Eve Louise"
+        "Eve <==[ewing:]==> Eve Louise",
+        "Trsino: <==[trsino]==> village the"
     ]
 }

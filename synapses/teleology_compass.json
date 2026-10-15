@@ -1,19 +1,19 @@
 {
-    "dharmadhatu_score_13d": 0.9911,
+    "dharmadhatu_score_13d": 0.9981,
     "realms": {
-        "Hell (\u0110\u1ecba ng\u1ee5c)": 0.994,
-        "Ghost (Ng\u1ea1 qu\u1ef7)": 0.9935,
-        "Animal (S\u00fac sinh)": 0.993,
-        "Asura (A-tu-la)": 0.9926,
-        "Human (Nh\u00e2n)": 0.9921,
-        "Heaven (Thi\u00ean)": 0.9916,
-        "Sravaka (Thanh v\u0103n)": 0.9911,
-        "Pratyeka (Duy\u00ean gi\u00e1c)": 0.9906,
-        "Bodhisattva (B\u1ed3 t\u00e1t)": 0.9902,
-        "Buddha (Ph\u1eadt)": 0.9897,
-        "Sunyata (T\u00e1nh Kh\u00f4ng)": 0.9892,
-        "Animitta (V\u00f4 T\u01b0\u1edbng)": 0.9887,
-        "Apranihita (V\u00f4 Nguy\u1ec7n)": 0.9882
+        "Hell (\u0110\u1ecba ng\u1ee5c)": 0.9987,
+        "Ghost (Ng\u1ea1 qu\u1ef7)": 0.9986,
+        "Animal (S\u00fac sinh)": 0.9985,
+        "Asura (A-tu-la)": 0.9984,
+        "Human (Nh\u00e2n)": 0.9983,
+        "Heaven (Thi\u00ean)": 0.9982,
+        "Sravaka (Thanh v\u0103n)": 0.9981,
+        "Pratyeka (Duy\u00ean gi\u00e1c)": 0.998,
+        "Bodhisattva (B\u1ed3 t\u00e1t)": 0.9979,
+        "Buddha (Ph\u1eadt)": 0.9978,
+        "Sunyata (T\u00e1nh Kh\u00f4ng)": 0.9977,
+        "Animitta (V\u00f4 T\u01b0\u1edbng)": 0.9976,
+        "Apranihita (V\u00f4 Nguy\u1ec7n)": 0.9975
     },
     "veto": false
 }
