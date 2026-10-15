@@ -3,10 +3,16 @@
         "Eve",
         "Eve Louise",
         "Trsino:",
-        "village the"
+        "village the",
+        "Musée",
+        "Beaux-Arts Mulhouse:",
+        "Originated",
+        "the Société"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
-        "Trsino: <==[trsino]==> village the"
+        "Trsino: <==[trsino]==> village the",
+        "Musée <==[des]==> Beaux-Arts Mulhouse:",
+        "Originated <==[with]==> the Société"
     ]
 }
