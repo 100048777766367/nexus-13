@@ -1,0 +1,9 @@
+{
+    "nodes": [
+        "Eve",
+        "Eve Louise"
+    ],
+    "edges": [
+        "Eve <==[ewing:]==> Eve Louise"
+    ]
+}
