@@ -1,0 +1,55 @@
+name: Nexus-13 Tridecagon Transcendence Lifecycle
+
+on:
+  push:
+    branches: [ main, master ]
+  workflow_dispatch:
+  schedule:
+    - cron: '10 */4 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  run-nexus13-transcendence:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Kéo mã nguồn Nexus-13
+        run: |
+          git clone --depth 1 https://github.com/${{ github.repository }}.git .
+
+      - name: Thiết lập Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Vận hành Vi Nhân Thập Tam Nexus-13
+        env:
+          REPO_OWNER: ${{ github.repository_owner }}
+        run: python engine.py
+
+      - name: Lưu vết tích tiến hóa Git
+        run: |
+          git config --global user.name "Nexus-13-Transcendence-Bot"
+          git config --global user.email "bot@nexus13.transcendence.node"
+          
+          # Cấp token an toàn cho chính repo này
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          
+          TARGET_BRANCH=$(git rev-parse --abbrev-ref HEAD)
+          [ "$TARGET_BRANCH" = "HEAD" ] || [ -z "$TARGET_BRANCH" ] && TARGET_BRANCH="main"
+
+          git fetch origin "$TARGET_BRANCH"
+          git reset origin/"$TARGET_BRANCH"
+          
+          for d in cells cortex synapses; do
+            [ -d "$d" ] && git add -A "$d"
+          done
+          git add synapse_forward.json synapse_backward.json 2>/dev/null || true
+          
+          if ! git diff --staged --quiet; then
+            git commit -m "⚡ [Nexus-13 F13] Thập Tam Giới Siêu Việt & Phá Vỡ Đối Xứng Tiến Hóa #(1+N) [skip ci]"
+            git push origin "$TARGET_BRANCH"
+          else
+            echo "Mạng lưới tĩnh lặng, không có biến thiên mới."
+          fi
