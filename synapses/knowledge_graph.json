@@ -7,12 +7,18 @@
         "Musée",
         "Beaux-Arts Mulhouse:",
         "Originated",
-        "the Société"
+        "the Société",
+        "Prince",
+        "Prince Rogers",
+        "Often",
+        "one"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
         "Trsino: <==[trsino]==> village the",
         "Musée <==[des]==> Beaux-Arts Mulhouse:",
-        "Originated <==[with]==> the Société"
+        "Originated <==[with]==> the Société",
+        "Prince <==[(musician):]==> Prince Rogers",
+        "Often <==[credited]==> one"
     ]
 }
