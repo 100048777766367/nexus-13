@@ -22,7 +22,9 @@
         "Dhal:",
         "Dhal was",
         "Was",
-        "Charchika the"
+        "Charchika the",
+        "Megan",
+        "(fighter): Megan"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -36,6 +38,7 @@
         "Gonterie-boulouneix: <==[gonterie-boulouneix]==> former commune",
         "Barendra <==[krushna]==> Dhal:",
         "Barendra <==[krushna]==> Dhal was",
-        "Was <==[born]==> Charchika the"
+        "Was <==[born]==> Charchika the",
+        "Megan <==[anderson]==> (fighter): Megan"
     ]
 }
