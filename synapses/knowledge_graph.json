@@ -17,7 +17,12 @@
         "Grizzly",
         "(soundtrack): Grizzly",
         "Gonterie-boulouneix:",
-        "former commune"
+        "former commune",
+        "Barendra",
+        "Dhal:",
+        "Dhal was",
+        "Was",
+        "Charchika the"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -28,6 +33,9 @@
         "Often <==[credited]==> one",
         "The <==[steve]==> Harvey Morning",
         "Grizzly <==[man]==> (soundtrack): Grizzly",
-        "Gonterie-boulouneix: <==[gonterie-boulouneix]==> former commune"
+        "Gonterie-boulouneix: <==[gonterie-boulouneix]==> former commune",
+        "Barendra <==[krushna]==> Dhal:",
+        "Barendra <==[krushna]==> Dhal was",
+        "Was <==[born]==> Charchika the"
     ]
 }
