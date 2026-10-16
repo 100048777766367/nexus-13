@@ -24,7 +24,9 @@
         "Was",
         "Charchika the",
         "Megan",
-        "(fighter): Megan"
+        "(fighter): Megan",
+        "Hyperbola:",
+        "hyperbola type"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -39,6 +41,7 @@
         "Barendra <==[krushna]==> Dhal:",
         "Barendra <==[krushna]==> Dhal was",
         "Was <==[born]==> Charchika the",
-        "Megan <==[anderson]==> (fighter): Megan"
+        "Megan <==[anderson]==> (fighter): Megan",
+        "Hyperbola: <==[mathematics,]==> hyperbola type"
     ]
 }
