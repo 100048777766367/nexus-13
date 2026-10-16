@@ -28,7 +28,11 @@
         "Hyperbola:",
         "hyperbola type",
         "Majma",
-        "Majmu' al-Zawa'id"
+        "Majmu' al-Zawa'id",
+        "Duggirala",
+        "Duggirala mandal",
+        "Under",
+        "admi"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -45,6 +49,8 @@
         "Was <==[born]==> Charchika the",
         "Megan <==[anderson]==> (fighter): Megan",
         "Hyperbola: <==[mathematics,]==> hyperbola type",
-        "Majma <==[al-zawa'id:]==> Majmu' al-Zawa'id"
+        "Majma <==[al-zawa'id:]==> Majmu' al-Zawa'id",
+        "Duggirala <==[mandal:]==> Duggirala mandal",
+        "Under <==[the]==> admi"
     ]
 }
