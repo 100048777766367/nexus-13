@@ -32,7 +32,9 @@
         "Duggirala",
         "Duggirala mandal",
         "Under",
-        "admi"
+        "admi",
+        "Atch",
+        "Atch Lench"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -51,6 +53,7 @@
         "Hyperbola: <==[mathematics,]==> hyperbola type",
         "Majma <==[al-zawa'id:]==> Majmu' al-Zawa'id",
         "Duggirala <==[mandal:]==> Duggirala mandal",
-        "Under <==[the]==> admi"
+        "Under <==[the]==> admi",
+        "Atch <==[lench:]==> Atch Lench"
     ]
 }
