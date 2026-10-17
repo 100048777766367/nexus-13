@@ -40,7 +40,9 @@
         "Centers",
         "journey blind",
         "United",
-        "Security Council"
+        "Security Council",
+        "Muraighib:",
+        "al-Muraiqib, Najdi"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -63,6 +65,7 @@
         "Atch <==[lench:]==> Atch Lench",
         "Genghis <==[blues:]==> Genghis Blues",
         "Centers <==[the]==> journey blind",
-        "United <==[nations]==> Security Council"
+        "United <==[nations]==> Security Council",
+        "Muraighib: <==[hillat]==> al-Muraiqib, Najdi"
     ]
 }
