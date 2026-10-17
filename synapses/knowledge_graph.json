@@ -38,7 +38,9 @@
         "Genghis",
         "Genghis Blues",
         "Centers",
-        "journey blind"
+        "journey blind",
+        "United",
+        "Security Council"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -60,6 +62,7 @@
         "Under <==[the]==> admi",
         "Atch <==[lench:]==> Atch Lench",
         "Genghis <==[blues:]==> Genghis Blues",
-        "Centers <==[the]==> journey blind"
+        "Centers <==[the]==> journey blind",
+        "United <==[nations]==> Security Council"
     ]
 }
