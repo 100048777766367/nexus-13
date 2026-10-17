@@ -34,7 +34,11 @@
         "Under",
         "admi",
         "Atch",
-        "Atch Lench"
+        "Atch Lench",
+        "Genghis",
+        "Genghis Blues",
+        "Centers",
+        "journey blind"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -54,6 +58,8 @@
         "Majma <==[al-zawa'id:]==> Majmu' al-Zawa'id",
         "Duggirala <==[mandal:]==> Duggirala mandal",
         "Under <==[the]==> admi",
-        "Atch <==[lench:]==> Atch Lench"
+        "Atch <==[lench:]==> Atch Lench",
+        "Genghis <==[blues:]==> Genghis Blues",
+        "Centers <==[the]==> journey blind"
     ]
 }
