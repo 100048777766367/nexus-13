@@ -48,7 +48,9 @@
         "Mickey",
         "Wilfred \"Mickey\"",
         "Kaltenholzhausen:",
-        "municipality the"
+        "municipality the",
+        "Colle",
+        "Colle Giacone"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -75,6 +77,7 @@
         "Muraighib: <==[hillat]==> al-Muraiqib, Najdi",
         "Anton <==[kalaytan:]==> Anton Yuriyovych",
         "Mickey <==[fields:]==> Wilfred \"Mickey\"",
-        "Kaltenholzhausen: <==[kaltenholzhausen]==> municipality the"
+        "Kaltenholzhausen: <==[kaltenholzhausen]==> municipality the",
+        "Colle <==[giacone:]==> Colle Giacone"
     ]
 }
