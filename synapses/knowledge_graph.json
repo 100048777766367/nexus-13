@@ -44,7 +44,9 @@
         "Muraighib:",
         "al-Muraiqib, Najdi",
         "Anton",
-        "Anton Yuriyovych"
+        "Anton Yuriyovych",
+        "Mickey",
+        "Wilfred \"Mickey\""
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -69,6 +71,7 @@
         "Centers <==[the]==> journey blind",
         "United <==[nations]==> Security Council",
         "Muraighib: <==[hillat]==> al-Muraiqib, Najdi",
-        "Anton <==[kalaytan:]==> Anton Yuriyovych"
+        "Anton <==[kalaytan:]==> Anton Yuriyovych",
+        "Mickey <==[fields:]==> Wilfred \"Mickey\""
     ]
 }
