@@ -46,7 +46,9 @@
         "Anton",
         "Anton Yuriyovych",
         "Mickey",
-        "Wilfred \"Mickey\""
+        "Wilfred \"Mickey\"",
+        "Kaltenholzhausen:",
+        "municipality the"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -72,6 +74,7 @@
         "United <==[nations]==> Security Council",
         "Muraighib: <==[hillat]==> al-Muraiqib, Najdi",
         "Anton <==[kalaytan:]==> Anton Yuriyovych",
-        "Mickey <==[fields:]==> Wilfred \"Mickey\""
+        "Mickey <==[fields:]==> Wilfred \"Mickey\"",
+        "Kaltenholzhausen: <==[kaltenholzhausen]==> municipality the"
     ]
 }
