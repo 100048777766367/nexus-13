@@ -42,7 +42,9 @@
         "United",
         "Security Council",
         "Muraighib:",
-        "al-Muraiqib, Najdi"
+        "al-Muraiqib, Najdi",
+        "Anton",
+        "Anton Yuriyovych"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -66,6 +68,7 @@
         "Genghis <==[blues:]==> Genghis Blues",
         "Centers <==[the]==> journey blind",
         "United <==[nations]==> Security Council",
-        "Muraighib: <==[hillat]==> al-Muraiqib, Najdi"
+        "Muraighib: <==[hillat]==> al-Muraiqib, Najdi",
+        "Anton <==[kalaytan:]==> Anton Yuriyovych"
     ]
 }
