@@ -52,7 +52,9 @@
         "Colle",
         "Colle Giacone",
         "Princess",
-        "Dark: Princess"
+        "Dark: Princess",
+        "Bay",
+        "Bay hair"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -81,6 +83,7 @@
         "Mickey <==[fields:]==> Wilfred \"Mickey\"",
         "Kaltenholzhausen: <==[kaltenholzhausen]==> municipality the",
         "Colle <==[giacone:]==> Colle Giacone",
-        "Princess <==[the]==> Dark: Princess"
+        "Princess <==[the]==> Dark: Princess",
+        "Bay <==[(horse):]==> Bay hair"
     ]
 }
