@@ -50,7 +50,9 @@
         "Kaltenholzhausen:",
         "municipality the",
         "Colle",
-        "Colle Giacone"
+        "Colle Giacone",
+        "Princess",
+        "Dark: Princess"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -78,6 +80,7 @@
         "Anton <==[kalaytan:]==> Anton Yuriyovych",
         "Mickey <==[fields:]==> Wilfred \"Mickey\"",
         "Kaltenholzhausen: <==[kaltenholzhausen]==> municipality the",
-        "Colle <==[giacone:]==> Colle Giacone"
+        "Colle <==[giacone:]==> Colle Giacone",
+        "Princess <==[the]==> Dark: Princess"
     ]
 }
