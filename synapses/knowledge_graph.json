@@ -62,7 +62,9 @@
         "Herz:",
         "Samuel Herz",
         "His",
-        "attached the"
+        "attached the",
+        "Prague",
+        "The Veolia"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -96,6 +98,7 @@
         "Haviv <==[ohayon:]==> Haviv Ohayon",
         "Tca <==[ground:]==> The TCA",
         "Herz: <==[carl]==> Samuel Herz",
-        "His <==[name]==> attached the"
+        "His <==[name]==> attached the",
+        "Prague <==[championship:]==> The Veolia"
     ]
 }
