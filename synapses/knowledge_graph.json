@@ -64,7 +64,9 @@
         "His",
         "attached the",
         "Prague",
-        "The Veolia"
+        "The Veolia",
+        "Yantai Shimao",
+        "323-metre (1,060"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -99,6 +101,8 @@
         "Tca <==[ground:]==> The TCA",
         "Herz: <==[carl]==> Samuel Herz",
         "His <==[name]==> attached the",
-        "Prague <==[championship:]==> The Veolia"
+        "Prague <==[championship:]==> The Veolia",
+        "The <==[harbour:]==> Yantai Shimao",
+        "The <==[harbour]==> 323-metre (1,060"
     ]
 }

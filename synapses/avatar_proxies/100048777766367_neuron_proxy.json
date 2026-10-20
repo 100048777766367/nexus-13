@@ -1,7 +1,7 @@
 {
     "guardian": "100048777766367/nexus-13",
     "target": "100048777766367/neuron",
-    "epoch": 26,
-    "decision": 0.5193,
+    "epoch": 27,
+    "decision": 0.5395,
     "status": "Protected_By_Nexus13"
 }
