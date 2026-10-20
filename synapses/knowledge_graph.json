@@ -56,7 +56,9 @@
         "Bay",
         "Bay hair",
         "Haviv",
-        "Haviv Ohayon"
+        "Haviv Ohayon",
+        "Tca",
+        "The TCA"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -87,6 +89,7 @@
         "Colle <==[giacone:]==> Colle Giacone",
         "Princess <==[the]==> Dark: Princess",
         "Bay <==[(horse):]==> Bay hair",
-        "Haviv <==[ohayon:]==> Haviv Ohayon"
+        "Haviv <==[ohayon:]==> Haviv Ohayon",
+        "Tca <==[ground:]==> The TCA"
     ]
 }
