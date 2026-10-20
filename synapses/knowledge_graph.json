@@ -58,7 +58,11 @@
         "Haviv",
         "Haviv Ohayon",
         "Tca",
-        "The TCA"
+        "The TCA",
+        "Herz:",
+        "Samuel Herz",
+        "His",
+        "attached the"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -90,6 +94,8 @@
         "Princess <==[the]==> Dark: Princess",
         "Bay <==[(horse):]==> Bay hair",
         "Haviv <==[ohayon:]==> Haviv Ohayon",
-        "Tca <==[ground:]==> The TCA"
+        "Tca <==[ground:]==> The TCA",
+        "Herz: <==[carl]==> Samuel Herz",
+        "His <==[name]==> attached the"
     ]
 }
