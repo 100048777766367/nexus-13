@@ -73,7 +73,10 @@
         "Released",
         "14, 1994",
         "Far",
-        "the Lies:"
+        "the Lies:",
+        "Bill",
+        "Bill Flanagan",
+        "Rhode Island"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -114,6 +117,8 @@
         "Tinajo <==[(municipality):]==> Tinajo municipality",
         "The <==[door]==> (Charlie Daniels",
         "Released <==[march]==> 14, 1994",
-        "Far <==[from]==> the Lies:"
+        "Far <==[from]==> the Lies:",
+        "Bill <==[flanagan:]==> Bill Flanagan",
+        "Was <==[born]==> Rhode Island"
     ]
 }
