@@ -68,7 +68,10 @@
         "Yantai Shimao",
         "323-metre (1,060",
         "Tinajo",
-        "Tinajo municipality"
+        "Tinajo municipality",
+        "(Charlie Daniels",
+        "Released",
+        "14, 1994"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -106,6 +109,8 @@
         "Prague <==[championship:]==> The Veolia",
         "The <==[harbour:]==> Yantai Shimao",
         "The <==[harbour]==> 323-metre (1,060",
-        "Tinajo <==[(municipality):]==> Tinajo municipality"
+        "Tinajo <==[(municipality):]==> Tinajo municipality",
+        "The <==[door]==> (Charlie Daniels",
+        "Released <==[march]==> 14, 1994"
     ]
 }
