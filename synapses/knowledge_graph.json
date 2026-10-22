@@ -78,7 +78,9 @@
         "Bill Flanagan",
         "Rhode Island",
         "Cerotainia",
-        "Cerotainia macrocera"
+        "Cerotainia macrocera",
+        "Queen",
+        "Queen Alberni"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -122,6 +124,7 @@
         "Far <==[from]==> the Lies:",
         "Bill <==[flanagan:]==> Bill Flanagan",
         "Was <==[born]==> Rhode Island",
-        "Cerotainia <==[macrocera:]==> Cerotainia macrocera"
+        "Cerotainia <==[macrocera:]==> Cerotainia macrocera",
+        "Queen <==[alberni:]==> Queen Alberni"
     ]
 }
