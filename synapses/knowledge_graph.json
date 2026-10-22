@@ -80,7 +80,10 @@
         "Cerotainia",
         "Cerotainia macrocera",
         "Queen",
-        "Queen Alberni"
+        "Queen Alberni",
+        "Soviet",
+        "carrier Ulyanovsk:",
+        "aircraft carrier"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -125,6 +128,8 @@
         "Bill <==[flanagan:]==> Bill Flanagan",
         "Was <==[born]==> Rhode Island",
         "Cerotainia <==[macrocera:]==> Cerotainia macrocera",
-        "Queen <==[alberni:]==> Queen Alberni"
+        "Queen <==[alberni:]==> Queen Alberni",
+        "Soviet <==[aircraft]==> carrier Ulyanovsk:",
+        "Was <==[stobar]==> aircraft carrier"
     ]
 }
