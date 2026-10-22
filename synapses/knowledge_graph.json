@@ -83,7 +83,9 @@
         "Queen Alberni",
         "Soviet",
         "carrier Ulyanovsk:",
-        "aircraft carrier"
+        "aircraft carrier",
+        "Dragon's",
+        "Dragon's Hall"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -130,6 +132,7 @@
         "Cerotainia <==[macrocera:]==> Cerotainia macrocera",
         "Queen <==[alberni:]==> Queen Alberni",
         "Soviet <==[aircraft]==> carrier Ulyanovsk:",
-        "Was <==[stobar]==> aircraft carrier"
+        "Was <==[stobar]==> aircraft carrier",
+        "Dragon's <==[hall:]==> Dragon's Hall"
     ]
 }
