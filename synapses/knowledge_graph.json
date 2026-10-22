@@ -76,7 +76,9 @@
         "the Lies:",
         "Bill",
         "Bill Flanagan",
-        "Rhode Island"
+        "Rhode Island",
+        "Cerotainia",
+        "Cerotainia macrocera"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -119,6 +121,7 @@
         "Released <==[march]==> 14, 1994",
         "Far <==[from]==> the Lies:",
         "Bill <==[flanagan:]==> Bill Flanagan",
-        "Was <==[born]==> Rhode Island"
+        "Was <==[born]==> Rhode Island",
+        "Cerotainia <==[macrocera:]==> Cerotainia macrocera"
     ]
 }
