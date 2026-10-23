@@ -90,7 +90,10 @@
         "Nikolai Feodorovich",
         "the populist",
         "Kétou,",
-        "Kétou Yoruba"
+        "Kétou Yoruba",
+        "True",
+        "True That",
+        "August 2014,"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -141,6 +144,8 @@
         "Dragon's <==[hall:]==> Dragon's Hall",
         "Nikolai <==[annensky:]==> Nikolai Feodorovich",
         "Was <==[member]==> the populist",
-        "Kétou, <==[benin:]==> Kétou Yoruba"
+        "Kétou, <==[benin:]==> Kétou Yoruba",
+        "True <==[that:]==> True That",
+        "Was <==[self-released]==> August 2014,"
     ]
 }
