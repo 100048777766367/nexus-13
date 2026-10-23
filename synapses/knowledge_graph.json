@@ -85,7 +85,10 @@
         "carrier Ulyanovsk:",
         "aircraft carrier",
         "Dragon's",
-        "Dragon's Hall"
+        "Dragon's Hall",
+        "Nikolai",
+        "Nikolai Feodorovich",
+        "the populist"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -133,6 +136,8 @@
         "Queen <==[alberni:]==> Queen Alberni",
         "Soviet <==[aircraft]==> carrier Ulyanovsk:",
         "Was <==[stobar]==> aircraft carrier",
-        "Dragon's <==[hall:]==> Dragon's Hall"
+        "Dragon's <==[hall:]==> Dragon's Hall",
+        "Nikolai <==[annensky:]==> Nikolai Feodorovich",
+        "Was <==[member]==> the populist"
     ]
 }
