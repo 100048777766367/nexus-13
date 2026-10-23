@@ -88,7 +88,9 @@
         "Dragon's Hall",
         "Nikolai",
         "Nikolai Feodorovich",
-        "the populist"
+        "the populist",
+        "Kétou,",
+        "Kétou Yoruba"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -138,6 +140,7 @@
         "Was <==[stobar]==> aircraft carrier",
         "Dragon's <==[hall:]==> Dragon's Hall",
         "Nikolai <==[annensky:]==> Nikolai Feodorovich",
-        "Was <==[member]==> the populist"
+        "Was <==[member]==> the populist",
+        "Kétou, <==[benin:]==> Kétou Yoruba"
     ]
 }
