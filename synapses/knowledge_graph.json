@@ -93,7 +93,9 @@
         "Kétou Yoruba",
         "True",
         "True That",
-        "August 2014,"
+        "August 2014,",
+        "Gargas,",
+        "Gargas commune"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -146,6 +148,7 @@
         "Was <==[member]==> the populist",
         "Kétou, <==[benin:]==> Kétou Yoruba",
         "True <==[that:]==> True That",
-        "Was <==[self-released]==> August 2014,"
+        "Was <==[self-released]==> August 2014,",
+        "Gargas, <==[vaucluse:]==> Gargas commune"
     ]
 }
