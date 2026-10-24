@@ -96,7 +96,9 @@
         "August 2014,",
         "Gargas,",
         "Gargas commune",
-        "Andalusia: The"
+        "Andalusia: The",
+        "Joanna",
+        "Joanna Bolme"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -151,6 +153,7 @@
         "True <==[that:]==> True That",
         "Was <==[self-released]==> August 2014,",
         "Gargas, <==[vaucluse:]==> Gargas commune",
-        "The <==[dream]==> Andalusia: The"
+        "The <==[dream]==> Andalusia: The",
+        "Joanna <==[bolme:]==> Joanna Bolme"
     ]
 }
