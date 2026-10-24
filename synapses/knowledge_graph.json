@@ -1,6 +1,5 @@
 {
     "nodes": [
-        "Eve",
         "Eve Louise",
         "Trsino:",
         "village the",
@@ -98,7 +97,9 @@
         "Gargas commune",
         "Andalusia: The",
         "Joanna",
-        "Joanna Bolme"
+        "Joanna Bolme",
+        "Storia",
+        "fornaretto Venezia:"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -154,6 +155,7 @@
         "Was <==[self-released]==> August 2014,",
         "Gargas, <==[vaucluse:]==> Gargas commune",
         "The <==[dream]==> Andalusia: The",
-        "Joanna <==[bolme:]==> Joanna Bolme"
+        "Joanna <==[bolme:]==> Joanna Bolme",
+        "Storia <==[del]==> fornaretto Venezia:"
     ]
 }
