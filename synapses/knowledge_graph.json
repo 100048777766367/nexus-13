@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Eve Louise",
-        "Trsino:",
-        "village the",
-        "Musée",
         "Beaux-Arts Mulhouse:",
         "Originated",
         "the Société",
@@ -99,7 +95,11 @@
         "Joanna",
         "Joanna Bolme",
         "Storia",
-        "fornaretto Venezia:"
+        "fornaretto Venezia:",
+        "Bande",
+        "Janani: Bandē",
+        "Odisha",
+        "the first"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -156,6 +156,8 @@
         "Gargas, <==[vaucluse:]==> Gargas commune",
         "The <==[dream]==> Andalusia: The",
         "Joanna <==[bolme:]==> Joanna Bolme",
-        "Storia <==[del]==> fornaretto Venezia:"
+        "Storia <==[del]==> fornaretto Venezia:",
+        "Bande <==[utkala]==> Janani: Bandē",
+        "Odisha <==[became]==> the first"
     ]
 }
