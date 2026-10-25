@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "the Société",
-        "Prince",
         "Prince Rogers",
         "Often",
         "one",
@@ -99,7 +97,9 @@
         "Odisha",
         "the first",
         "Zamek",
-        "Zamek Bierzgłowski"
+        "Zamek Bierzgłowski",
+        "Christchurch",
+        "Lymington: Christchurch"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -159,6 +159,7 @@
         "Storia <==[del]==> fornaretto Venezia:",
         "Bande <==[utkala]==> Janani: Bandē",
         "Odisha <==[became]==> the first",
-        "Zamek <==[bierzgłowski:]==> Zamek Bierzgłowski"
+        "Zamek <==[bierzgłowski:]==> Zamek Bierzgłowski",
+        "Christchurch <==[and]==> Lymington: Christchurch"
     ]
 }
