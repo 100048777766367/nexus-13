@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Prince Rogers",
-        "Often",
-        "one",
-        "The",
         "Harvey Morning",
         "Grizzly",
         "(soundtrack): Grizzly",
@@ -99,7 +95,11 @@
         "Zamek",
         "Zamek Bierzgłowski",
         "Christchurch",
-        "Lymington: Christchurch"
+        "Lymington: Christchurch",
+        "Elisabeth",
+        "Elisabeth Brooks",
+        "She",
+        "best remembered"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -160,6 +160,8 @@
         "Bande <==[utkala]==> Janani: Bandē",
         "Odisha <==[became]==> the first",
         "Zamek <==[bierzgłowski:]==> Zamek Bierzgłowski",
-        "Christchurch <==[and]==> Lymington: Christchurch"
+        "Christchurch <==[and]==> Lymington: Christchurch",
+        "Elisabeth <==[brooks:]==> Elisabeth Brooks",
+        "She <==[probably]==> best remembered"
     ]
 }
