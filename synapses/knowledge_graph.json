@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Harvey Morning",
-        "Grizzly",
-        "(soundtrack): Grizzly",
-        "Gonterie-boulouneix:",
         "former commune",
         "Barendra",
         "Dhal:",
@@ -99,7 +95,11 @@
         "Elisabeth",
         "Elisabeth Brooks",
         "She",
-        "best remembered"
+        "best remembered",
+        "Trần",
+        "NSND Trần",
+        "With",
+        "late Quý"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -162,6 +162,8 @@
         "Zamek <==[bierzgłowski:]==> Zamek Bierzgłowski",
         "Christchurch <==[and]==> Lymington: Christchurch",
         "Elisabeth <==[brooks:]==> Elisabeth Brooks",
-        "She <==[probably]==> best remembered"
+        "She <==[probably]==> best remembered",
+        "Trần <==[hiếu:]==> NSND Trần",
+        "With <==[the]==> late Quý"
     ]
 }
