@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Beaux-Arts Mulhouse:",
-        "Originated",
         "the Société",
         "Prince",
         "Prince Rogers",
@@ -99,7 +97,9 @@
         "Bande",
         "Janani: Bandē",
         "Odisha",
-        "the first"
+        "the first",
+        "Zamek",
+        "Zamek Bierzgłowski"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -158,6 +158,7 @@
         "Joanna <==[bolme:]==> Joanna Bolme",
         "Storia <==[del]==> fornaretto Venezia:",
         "Bande <==[utkala]==> Janani: Bandē",
-        "Odisha <==[became]==> the first"
+        "Odisha <==[became]==> the first",
+        "Zamek <==[bierzgłowski:]==> Zamek Bierzgłowski"
     ]
 }
