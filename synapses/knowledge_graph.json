@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Was",
-        "Charchika the",
         "Megan",
         "(fighter): Megan",
         "Hyperbola:",
@@ -99,7 +97,9 @@
         "Emma",
         "(gymnast): Emma",
         "Wedgemere",
-        "District: The"
+        "District: The",
+        "Kamionna,",
+        "County: Kamionna"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -166,6 +166,7 @@
         "Trần <==[hiếu:]==> NSND Trần",
         "With <==[the]==> late Quý",
         "Emma <==[reyes]==> (gymnast): Emma",
-        "Wedgemere <==[historic]==> District: The"
+        "Wedgemere <==[historic]==> District: The",
+        "Kamionna, <==[węgrów]==> County: Kamionna"
     ]
 }
