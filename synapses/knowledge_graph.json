@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "former commune",
-        "Barendra",
         "Dhal:",
         "Dhal was",
         "Was",
@@ -99,7 +97,9 @@
         "Trần",
         "NSND Trần",
         "With",
-        "late Quý"
+        "late Quý",
+        "Emma",
+        "(gymnast): Emma"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -164,6 +164,7 @@
         "Elisabeth <==[brooks:]==> Elisabeth Brooks",
         "She <==[probably]==> best remembered",
         "Trần <==[hiếu:]==> NSND Trần",
-        "With <==[the]==> late Quý"
+        "With <==[the]==> late Quý",
+        "Emma <==[reyes]==> (gymnast): Emma"
     ]
 }
