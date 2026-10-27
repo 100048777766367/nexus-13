@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Majma",
-        "Majmu' al-Zawa'id",
-        "Duggirala",
-        "Duggirala mandal",
         "Under",
         "admi",
         "Atch",
@@ -99,7 +95,11 @@
         "Kber:",
         "radio station",
         "Licensed",
-        "Utah, United"
+        "Utah, United",
+        "Rock",
+        "(album): Rock",
+        "Was",
+        "Octo"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -169,6 +169,8 @@
         "Wedgemere <==[historic]==> District: The",
         "Kamionna, <==[węgrów]==> County: Kamionna",
         "Kber: <==[kber]==> radio station",
-        "Licensed <==[ogden,]==> Utah, United"
+        "Licensed <==[ogden,]==> Utah, United",
+        "Rock <==[candy]==> (album): Rock",
+        "Was <==[released]==> Octo"
     ]
 }
