@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Megan",
-        "(fighter): Megan",
-        "Hyperbola:",
-        "hyperbola type",
         "Majma",
         "Majmu' al-Zawa'id",
         "Duggirala",
@@ -99,7 +95,11 @@
         "Wedgemere",
         "District: The",
         "Kamionna,",
-        "County: Kamionna"
+        "County: Kamionna",
+        "Kber:",
+        "radio station",
+        "Licensed",
+        "Utah, United"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -167,6 +167,8 @@
         "With <==[the]==> late Quý",
         "Emma <==[reyes]==> (gymnast): Emma",
         "Wedgemere <==[historic]==> District: The",
-        "Kamionna, <==[węgrów]==> County: Kamionna"
+        "Kamionna, <==[węgrów]==> County: Kamionna",
+        "Kber: <==[kber]==> radio station",
+        "Licensed <==[ogden,]==> Utah, United"
     ]
 }
