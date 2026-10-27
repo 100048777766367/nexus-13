@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Under",
-        "admi",
         "Atch",
         "Atch Lench",
         "Genghis",
@@ -99,7 +97,9 @@
         "Rock",
         "(album): Rock",
         "Was",
-        "Octo"
+        "Octo",
+        "Groot:",
+        "American series"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -171,6 +171,7 @@
         "Kber: <==[kber]==> radio station",
         "Licensed <==[ogden,]==> Utah, United",
         "Rock <==[candy]==> (album): Rock",
-        "Was <==[released]==> Octo"
+        "Was <==[released]==> Octo",
+        "Groot: <==[groot]==> American series"
     ]
 }
