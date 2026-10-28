@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Atch",
-        "Atch Lench",
         "Genghis",
         "Genghis Blues",
         "Centers",
@@ -99,7 +97,9 @@
         "Was",
         "Octo",
         "Groot:",
-        "American series"
+        "American series",
+        "Tsodilo:",
+        "Tsodilo Hills"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -172,6 +172,7 @@
         "Licensed <==[ogden,]==> Utah, United",
         "Rock <==[candy]==> (album): Rock",
         "Was <==[released]==> Octo",
-        "Groot: <==[groot]==> American series"
+        "Groot: <==[groot]==> American series",
+        "Tsodilo: <==[the]==> Tsodilo Hills"
     ]
 }
