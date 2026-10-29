@@ -1,6 +1,5 @@
 {
     "nodes": [
-        "Anton",
         "Anton Yuriyovych",
         "Mickey",
         "Wilfred \"Mickey\"",
@@ -99,7 +98,8 @@
         "1901",
         "Dame football",
         "Elizabeth",
-        "Dame Elizabeth"
+        "Dame Elizabeth",
+        "Head: The"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -177,6 +177,7 @@
         "The <==[rounders]==> (TV series):",
         "Cope <==[street:]==> Cope Street",
         "1901 <==[notre]==> Dame football",
-        "Elizabeth <==[esteve-coll:]==> Dame Elizabeth"
+        "Elizabeth <==[esteve-coll:]==> Dame Elizabeth",
+        "The <==[prince's]==> Head: The"
     ]
 }
