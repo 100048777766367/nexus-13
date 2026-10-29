@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Muraighib:",
-        "al-Muraiqib, Najdi",
         "Anton",
         "Anton Yuriyovych",
         "Mickey",
@@ -99,7 +97,9 @@
         "Cope",
         "Cope Street",
         "1901",
-        "Dame football"
+        "Dame football",
+        "Elizabeth",
+        "Dame Elizabeth"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -176,6 +176,7 @@
         "Tsodilo: <==[the]==> Tsodilo Hills",
         "The <==[rounders]==> (TV series):",
         "Cope <==[street:]==> Cope Street",
-        "1901 <==[notre]==> Dame football"
+        "1901 <==[notre]==> Dame football",
+        "Elizabeth <==[esteve-coll:]==> Dame Elizabeth"
     ]
 }
