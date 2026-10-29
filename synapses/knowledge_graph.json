@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "United",
-        "Security Council",
         "Muraighib:",
         "al-Muraiqib, Najdi",
         "Anton",
@@ -99,7 +97,9 @@
         "The",
         "(TV series):",
         "Cope",
-        "Cope Street"
+        "Cope Street",
+        "1901",
+        "Dame football"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -175,6 +175,7 @@
         "Groot: <==[groot]==> American series",
         "Tsodilo: <==[the]==> Tsodilo Hills",
         "The <==[rounders]==> (TV series):",
-        "Cope <==[street:]==> Cope Street"
+        "Cope <==[street:]==> Cope Street",
+        "1901 <==[notre]==> Dame football"
     ]
 }
