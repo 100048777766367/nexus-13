@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Colle",
-        "Colle Giacone",
-        "Princess",
-        "Dark: Princess",
         "Bay",
         "Bay hair",
         "Haviv",
@@ -99,7 +95,11 @@
         "The Cathedral",
         "are situated",
         "German",
-        "German Ivanovich"
+        "German Ivanovich",
+        "Nannodiplax:",
+        "genus dragonflies",
+        "There",
+        "one known"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -181,6 +181,8 @@
         "The <==[prince's]==> Head: The",
         "Cathedral <==[lakes:]==> The Cathedral",
         "The <==[lakes]==> are situated",
-        "German <==[konovalov:]==> German Ivanovich"
+        "German <==[konovalov:]==> German Ivanovich",
+        "Nannodiplax: <==[nannodiplax]==> genus dragonflies",
+        "There <==[only]==> one known"
     ]
 }
