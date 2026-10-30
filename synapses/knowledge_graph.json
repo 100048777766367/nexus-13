@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Kaltenholzhausen:",
-        "municipality the",
         "Colle",
         "Colle Giacone",
         "Princess",
@@ -99,7 +97,9 @@
         "Head: The",
         "Cathedral",
         "The Cathedral",
-        "are situated"
+        "are situated",
+        "German",
+        "German Ivanovich"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -180,6 +180,7 @@
         "Elizabeth <==[esteve-coll:]==> Dame Elizabeth",
         "The <==[prince's]==> Head: The",
         "Cathedral <==[lakes:]==> The Cathedral",
-        "The <==[lakes]==> are situated"
+        "The <==[lakes]==> are situated",
+        "German <==[konovalov:]==> German Ivanovich"
     ]
 }
