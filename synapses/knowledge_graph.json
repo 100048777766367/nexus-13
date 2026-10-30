@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Anton Yuriyovych",
-        "Mickey",
-        "Wilfred \"Mickey\"",
         "Kaltenholzhausen:",
         "municipality the",
         "Colle",
@@ -99,7 +96,10 @@
         "Dame football",
         "Elizabeth",
         "Dame Elizabeth",
-        "Head: The"
+        "Head: The",
+        "Cathedral",
+        "The Cathedral",
+        "are situated"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -178,6 +178,8 @@
         "Cope <==[street:]==> Cope Street",
         "1901 <==[notre]==> Dame football",
         "Elizabeth <==[esteve-coll:]==> Dame Elizabeth",
-        "The <==[prince's]==> Head: The"
+        "The <==[prince's]==> Head: The",
+        "Cathedral <==[lakes:]==> The Cathedral",
+        "The <==[lakes]==> are situated"
     ]
 }
