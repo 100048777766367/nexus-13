@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Haviv",
-        "Haviv Ohayon",
-        "Tca",
         "The TCA",
         "Herz:",
         "Samuel Herz",
@@ -99,7 +96,10 @@
         "There",
         "one known",
         "Jabbertalky:",
-        "1981 video"
+        "1981 video",
+        "Peregrine",
+        "(1723–1785): Peregrine",
+        "Deputy Chairman"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -184,6 +184,8 @@
         "German <==[konovalov:]==> German Ivanovich",
         "Nannodiplax: <==[nannodiplax]==> genus dragonflies",
         "There <==[only]==> one known",
-        "Jabbertalky: <==[jabbertalky]==> 1981 video"
+        "Jabbertalky: <==[jabbertalky]==> 1981 video",
+        "Peregrine <==[cust]==> (1723–1785): Peregrine",
+        "Was <==[also]==> Deputy Chairman"
     ]
 }
