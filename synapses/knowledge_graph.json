@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Bay",
-        "Bay hair",
         "Haviv",
         "Haviv Ohayon",
         "Tca",
@@ -99,7 +97,9 @@
         "Nannodiplax:",
         "genus dragonflies",
         "There",
-        "one known"
+        "one known",
+        "Jabbertalky:",
+        "1981 video"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -183,6 +183,7 @@
         "The <==[lakes]==> are situated",
         "German <==[konovalov:]==> German Ivanovich",
         "Nannodiplax: <==[nannodiplax]==> genus dragonflies",
-        "There <==[only]==> one known"
+        "There <==[only]==> one known",
+        "Jabbertalky: <==[jabbertalky]==> 1981 video"
     ]
 }
