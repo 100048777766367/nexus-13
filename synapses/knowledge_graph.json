@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "His",
-        "attached the",
-        "Prague",
-        "The Veolia",
         "Yantai Shimao",
         "323-metre (1,060",
         "Tinajo",
@@ -99,7 +95,11 @@
         "Deputy Chairman",
         "Oppo",
         "OPPO Android",
-        "announced China"
+        "announced China",
+        "Harry",
+        "Harry Crosbie",
+        "Known",
+        "his"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -188,6 +188,8 @@
         "Peregrine <==[cust]==> (1723–1785): Peregrine",
         "Was <==[also]==> Deputy Chairman",
         "Oppo <==[r9:]==> OPPO Android",
-        "Was <==[officially]==> announced China"
+        "Was <==[officially]==> announced China",
+        "Harry <==[crosbie:]==> Harry Crosbie",
+        "Known <==[for]==> his"
     ]
 }
