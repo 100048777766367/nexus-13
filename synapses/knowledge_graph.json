@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "The TCA",
-        "Herz:",
-        "Samuel Herz",
         "His",
         "attached the",
         "Prague",
@@ -99,7 +96,10 @@
         "1981 video",
         "Peregrine",
         "(1723–1785): Peregrine",
-        "Deputy Chairman"
+        "Deputy Chairman",
+        "Oppo",
+        "OPPO Android",
+        "announced China"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -186,6 +186,8 @@
         "There <==[only]==> one known",
         "Jabbertalky: <==[jabbertalky]==> 1981 video",
         "Peregrine <==[cust]==> (1723–1785): Peregrine",
-        "Was <==[also]==> Deputy Chairman"
+        "Was <==[also]==> Deputy Chairman",
+        "Oppo <==[r9:]==> OPPO Android",
+        "Was <==[officially]==> announced China"
     ]
 }
