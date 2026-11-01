@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Released",
-        "14, 1994",
-        "Far",
-        "the Lies:",
         "Bill",
         "Bill Flanagan",
         "Rhode Island",
@@ -99,7 +95,11 @@
         "Kenneth Whitaker",
         "Auto",
         "Pilen",
-        "manufacturing company"
+        "manufacturing company",
+        "Skirden",
+        "Skirden Beck",
+        "Km)",
+        "and has"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -193,6 +193,8 @@
         "Known <==[for]==> his",
         "Whitaker: <==[thomas]==> Kenneth Whitaker",
         "Auto <==[pilen:]==> Pilen",
-        "Was <==[spanish]==> manufacturing company"
+        "Was <==[spanish]==> manufacturing company",
+        "Skirden <==[beck:]==> Skirden Beck",
+        "Km) <==[long]==> and has"
     ]
 }
