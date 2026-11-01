@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Tinajo",
-        "Tinajo municipality",
-        "(Charlie Daniels",
         "Released",
         "14, 1994",
         "Far",
@@ -99,7 +96,10 @@
         "Known",
         "his",
         "Whitaker:",
-        "Kenneth Whitaker"
+        "Kenneth Whitaker",
+        "Auto",
+        "Pilen",
+        "manufacturing company"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -191,6 +191,8 @@
         "Was <==[officially]==> announced China",
         "Harry <==[crosbie:]==> Harry Crosbie",
         "Known <==[for]==> his",
-        "Whitaker: <==[thomas]==> Kenneth Whitaker"
+        "Whitaker: <==[thomas]==> Kenneth Whitaker",
+        "Auto <==[pilen:]==> Pilen",
+        "Was <==[spanish]==> manufacturing company"
     ]
 }
