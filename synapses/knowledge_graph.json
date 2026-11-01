@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Yantai Shimao",
-        "323-metre (1,060",
         "Tinajo",
         "Tinajo municipality",
         "(Charlie Daniels",
@@ -99,7 +97,9 @@
         "Harry",
         "Harry Crosbie",
         "Known",
-        "his"
+        "his",
+        "Whitaker:",
+        "Kenneth Whitaker"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -190,6 +190,7 @@
         "Oppo <==[r9:]==> OPPO Android",
         "Was <==[officially]==> announced China",
         "Harry <==[crosbie:]==> Harry Crosbie",
-        "Known <==[for]==> his"
+        "Known <==[for]==> his",
+        "Whitaker: <==[thomas]==> Kenneth Whitaker"
     ]
 }
