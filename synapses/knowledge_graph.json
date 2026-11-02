@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Bill",
-        "Bill Flanagan",
-        "Rhode Island",
         "Cerotainia",
         "Cerotainia macrocera",
         "Queen",
@@ -99,7 +96,10 @@
         "Skirden",
         "Skirden Beck",
         "Km)",
-        "and has"
+        "and has",
+        "Milana",
+        "Milana Iliosovna",
+        "2025 Junior"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -195,6 +195,8 @@
         "Auto <==[pilen:]==> Pilen",
         "Was <==[spanish]==> manufacturing company",
         "Skirden <==[beck:]==> Skirden Beck",
-        "Km) <==[long]==> and has"
+        "Km) <==[long]==> and has",
+        "Milana <==[kaiumova:]==> Milana Iliosovna",
+        "She <==[the]==> 2025 Junior"
     ]
 }
