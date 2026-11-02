@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Cerotainia",
-        "Cerotainia macrocera",
         "Queen",
         "Queen Alberni",
         "Soviet",
@@ -99,7 +97,9 @@
         "and has",
         "Milana",
         "Milana Iliosovna",
-        "2025 Junior"
+        "2025 Junior",
+        "Vanikoro",
+        "Vanikoro ligata"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -197,6 +197,7 @@
         "Skirden <==[beck:]==> Skirden Beck",
         "Km) <==[long]==> and has",
         "Milana <==[kaiumova:]==> Milana Iliosovna",
-        "She <==[the]==> 2025 Junior"
+        "She <==[the]==> 2025 Junior",
+        "Vanikoro <==[ligata:]==> Vanikoro ligata"
     ]
 }
