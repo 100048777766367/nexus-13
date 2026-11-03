@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Queen",
-        "Queen Alberni",
         "Soviet",
         "carrier Ulyanovsk:",
         "aircraft carrier",
@@ -99,7 +97,9 @@
         "Milana Iliosovna",
         "2025 Junior",
         "Vanikoro",
-        "Vanikoro ligata"
+        "Vanikoro ligata",
+        "Albania",
+        "2011 World"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -198,6 +198,7 @@
         "Km) <==[long]==> and has",
         "Milana <==[kaiumova:]==> Milana Iliosovna",
         "She <==[the]==> 2025 Junior",
-        "Vanikoro <==[ligata:]==> Vanikoro ligata"
+        "Vanikoro <==[ligata:]==> Vanikoro ligata",
+        "Albania <==[the]==> 2011 World"
     ]
 }
