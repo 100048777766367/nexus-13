@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Soviet",
-        "carrier Ulyanovsk:",
         "aircraft carrier",
         "Dragon's",
         "Dragon's Hall",
@@ -99,7 +97,9 @@
         "Vanikoro",
         "Vanikoro ligata",
         "Albania",
-        "2011 World"
+        "2011 World",
+        "Joy",
+        "Joy Berry"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -199,6 +199,7 @@
         "Milana <==[kaiumova:]==> Milana Iliosovna",
         "She <==[the]==> 2025 Junior",
         "Vanikoro <==[ligata:]==> Vanikoro ligata",
-        "Albania <==[the]==> 2011 World"
+        "Albania <==[the]==> 2011 World",
+        "Joy <==[berry:]==> Joy Berry"
     ]
 }
