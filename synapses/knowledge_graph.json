@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "aircraft carrier",
-        "Dragon's",
-        "Dragon's Hall",
-        "Nikolai",
         "Nikolai Feodorovich",
         "the populist",
         "Kétou,",
@@ -99,7 +95,11 @@
         "Albania",
         "2011 World",
         "Joy",
-        "Joy Berry"
+        "Joy Berry",
+        "Brett",
+        "Brett Gabbert",
+        "Played",
+        "football for"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -200,6 +200,8 @@
         "She <==[the]==> 2025 Junior",
         "Vanikoro <==[ligata:]==> Vanikoro ligata",
         "Albania <==[the]==> 2011 World",
-        "Joy <==[berry:]==> Joy Berry"
+        "Joy <==[berry:]==> Joy Berry",
+        "Brett <==[gabbert:]==> Brett Gabbert",
+        "Played <==[college]==> football for"
     ]
 }
