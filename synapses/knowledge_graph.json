@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Nikolai Feodorovich",
-        "the populist",
         "Kétou,",
         "Kétou Yoruba",
         "True",
@@ -99,7 +97,9 @@
         "Brett",
         "Brett Gabbert",
         "Played",
-        "football for"
+        "football for",
+        "North",
+        "Hawaii: Waikāne,"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -202,6 +202,7 @@
         "Albania <==[the]==> 2011 World",
         "Joy <==[berry:]==> Joy Berry",
         "Brett <==[gabbert:]==> Brett Gabbert",
-        "Played <==[college]==> football for"
+        "Played <==[college]==> football for",
+        "North <==[koʻolaupoko,]==> Hawaii: Waikāne,"
     ]
 }
