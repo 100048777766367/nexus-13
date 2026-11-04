@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "True That",
-        "August 2014,",
-        "Gargas,",
-        "Gargas commune",
         "Andalusia: The",
         "Joanna",
         "Joanna Bolme",
@@ -99,7 +95,11 @@
         "Hawaii: Waikāne,",
         "Phra",
         "district: Phra",
-        "district Bangkok,"
+        "district Bangkok,",
+        "Lopushne,",
+        "urban hromada,",
+        "After",
+        "liquidation the"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -205,6 +205,8 @@
         "Played <==[college]==> football for",
         "North <==[koʻolaupoko,]==> Hawaii: Waikāne,",
         "Phra <==[nakhon]==> district: Phra",
-        "The <==[central]==> district Bangkok,"
+        "The <==[central]==> district Bangkok,",
+        "Lopushne, <==[lanivtsi]==> urban hromada,",
+        "After <==[the]==> liquidation the"
     ]
 }
