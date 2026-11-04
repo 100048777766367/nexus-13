@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Kétou,",
-        "Kétou Yoruba",
-        "True",
         "True That",
         "August 2014,",
         "Gargas,",
@@ -99,7 +96,10 @@
         "Played",
         "football for",
         "North",
-        "Hawaii: Waikāne,"
+        "Hawaii: Waikāne,",
+        "Phra",
+        "district: Phra",
+        "district Bangkok,"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -203,6 +203,8 @@
         "Joy <==[berry:]==> Joy Berry",
         "Brett <==[gabbert:]==> Brett Gabbert",
         "Played <==[college]==> football for",
-        "North <==[koʻolaupoko,]==> Hawaii: Waikāne,"
+        "North <==[koʻolaupoko,]==> Hawaii: Waikāne,",
+        "Phra <==[nakhon]==> district: Phra",
+        "The <==[central]==> district Bangkok,"
     ]
 }
