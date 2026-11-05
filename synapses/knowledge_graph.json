@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Janani: Bandē",
-        "Odisha",
         "the first",
         "Zamek",
         "Zamek Bierzgłowski",
@@ -99,7 +97,9 @@
         "January",
         "was merged",
         "Aryabhatta",
-        "Institute Observational"
+        "Institute Observational",
+        "Veterans",
+        "The Veterans"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -210,6 +210,7 @@
         "After <==[the]==> liquidation the",
         "Parcoul: <==[parcoul]==> former commune",
         "January <==[2016,]==> was merged",
-        "Aryabhatta <==[research]==> Institute Observational"
+        "Aryabhatta <==[research]==> Institute Observational",
+        "Veterans <==[committee:]==> The Veterans"
     ]
 }
