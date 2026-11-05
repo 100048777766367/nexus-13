@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Andalusia: The",
-        "Joanna",
-        "Joanna Bolme",
-        "Storia",
         "fornaretto Venezia:",
         "Bande",
         "Janani: Bandē",
@@ -99,7 +95,11 @@
         "Lopushne,",
         "urban hromada,",
         "After",
-        "liquidation the"
+        "liquidation the",
+        "Parcoul:",
+        "former commune",
+        "January",
+        "was merged"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -207,6 +207,8 @@
         "Phra <==[nakhon]==> district: Phra",
         "The <==[central]==> district Bangkok,",
         "Lopushne, <==[lanivtsi]==> urban hromada,",
-        "After <==[the]==> liquidation the"
+        "After <==[the]==> liquidation the",
+        "Parcoul: <==[parcoul]==> former commune",
+        "January <==[2016,]==> was merged"
     ]
 }
