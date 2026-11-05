@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "fornaretto Venezia:",
-        "Bande",
         "Janani: Bandē",
         "Odisha",
         "the first",
@@ -99,7 +97,9 @@
         "Parcoul:",
         "former commune",
         "January",
-        "was merged"
+        "was merged",
+        "Aryabhatta",
+        "Institute Observational"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -209,6 +209,7 @@
         "Lopushne, <==[lanivtsi]==> urban hromada,",
         "After <==[the]==> liquidation the",
         "Parcoul: <==[parcoul]==> former commune",
-        "January <==[2016,]==> was merged"
+        "January <==[2016,]==> was merged",
+        "Aryabhatta <==[research]==> Institute Observational"
     ]
 }
