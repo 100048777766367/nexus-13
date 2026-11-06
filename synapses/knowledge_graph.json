@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Elisabeth Brooks",
-        "She",
         "best remembered",
         "Trần",
         "NSND Trần",
@@ -99,7 +97,9 @@
         "Operated",
         "passenger, and",
         "Its",
-        "base"
+        "base",
+        "Addressograph:",
+        "address labeler"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -214,6 +214,7 @@
         "Veterans <==[committee:]==> The Veterans",
         "Avial <==[nv:]==> Avial NV,",
         "Operated <==[charter,]==> passenger, and",
-        "Its <==[main]==> base"
+        "Its <==[main]==> base",
+        "Addressograph: <==[addressograph]==> address labeler"
     ]
 }
