@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "best remembered",
-        "Trần",
         "NSND Trần",
         "With",
         "late Quý",
@@ -99,7 +97,9 @@
         "Its",
         "base",
         "Addressograph:",
-        "address labeler"
+        "address labeler",
+        "Thor",
+        "Thor Solberg"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -215,6 +215,7 @@
         "Avial <==[nv:]==> Avial NV,",
         "Operated <==[charter,]==> passenger, and",
         "Its <==[main]==> base",
-        "Addressograph: <==[addressograph]==> address labeler"
+        "Addressograph: <==[addressograph]==> address labeler",
+        "Thor <==[solberg:]==> Thor Solberg"
     ]
 }
