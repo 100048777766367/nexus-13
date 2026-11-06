@@ -1,11 +1,5 @@
 {
     "nodes": [
-        "the first",
-        "Zamek",
-        "Zamek Bierzgłowski",
-        "Christchurch",
-        "Lymington: Christchurch",
-        "Elisabeth",
         "Elisabeth Brooks",
         "She",
         "best remembered",
@@ -99,7 +93,13 @@
         "Aryabhatta",
         "Institute Observational",
         "Veterans",
-        "The Veterans"
+        "The Veterans",
+        "Avial",
+        "Avial NV,",
+        "Operated",
+        "passenger, and",
+        "Its",
+        "base"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -211,6 +211,9 @@
         "Parcoul: <==[parcoul]==> former commune",
         "January <==[2016,]==> was merged",
         "Aryabhatta <==[research]==> Institute Observational",
-        "Veterans <==[committee:]==> The Veterans"
+        "Veterans <==[committee:]==> The Veterans",
+        "Avial <==[nv:]==> Avial NV,",
+        "Operated <==[charter,]==> passenger, and",
+        "Its <==[main]==> base"
     ]
 }
