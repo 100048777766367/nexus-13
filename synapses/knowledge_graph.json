@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "NSND Trần",
-        "With",
         "late Quý",
         "Emma",
         "(gymnast): Emma",
@@ -99,7 +97,9 @@
         "Addressograph:",
         "address labeler",
         "Thor",
-        "Thor Solberg"
+        "Thor Solberg",
+        "Łupiny,",
+        "Voivodeship: Łupiny"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -216,6 +216,7 @@
         "Operated <==[charter,]==> passenger, and",
         "Its <==[main]==> base",
         "Addressograph: <==[addressograph]==> address labeler",
-        "Thor <==[solberg:]==> Thor Solberg"
+        "Thor <==[solberg:]==> Thor Solberg",
+        "Łupiny, <==[masovian]==> Voivodeship: Łupiny"
     ]
 }
