@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "(gymnast): Emma",
-        "Wedgemere",
         "District: The",
         "Kamionna,",
         "County: Kamionna",
@@ -99,7 +97,9 @@
         "Łupiny,",
         "Voivodeship: Łupiny",
         "Muhammad",
-        "Tabataba'i: Muhammad"
+        "Tabataba'i: Muhammad",
+        "Livonia",
+        "station: The"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -218,6 +218,7 @@
         "Addressograph: <==[addressograph]==> address labeler",
         "Thor <==[solberg:]==> Thor Solberg",
         "Łupiny, <==[masovian]==> Voivodeship: Łupiny",
-        "Muhammad <==[husayn]==> Tabataba'i: Muhammad"
+        "Muhammad <==[husayn]==> Tabataba'i: Muhammad",
+        "Livonia <==[avenue]==> station: The"
     ]
 }
