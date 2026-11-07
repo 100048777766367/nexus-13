@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "late Quý",
-        "Emma",
         "(gymnast): Emma",
         "Wedgemere",
         "District: The",
@@ -99,7 +97,9 @@
         "Thor",
         "Thor Solberg",
         "Łupiny,",
-        "Voivodeship: Łupiny"
+        "Voivodeship: Łupiny",
+        "Muhammad",
+        "Tabataba'i: Muhammad"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -217,6 +217,7 @@
         "Its <==[main]==> base",
         "Addressograph: <==[addressograph]==> address labeler",
         "Thor <==[solberg:]==> Thor Solberg",
-        "Łupiny, <==[masovian]==> Voivodeship: Łupiny"
+        "Łupiny, <==[masovian]==> Voivodeship: Łupiny",
+        "Muhammad <==[husayn]==> Tabataba'i: Muhammad"
     ]
 }

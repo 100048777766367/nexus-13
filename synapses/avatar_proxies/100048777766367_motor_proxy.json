@@ -1,7 +1,7 @@
 {
     "guardian": "100048777766367/nexus-13",
     "target": "100048777766367/motor",
-    "epoch": 84,
-    "decision": 0.57,
+    "epoch": 85,
+    "decision": 0.5699,
     "status": "Protected_By_Nexus13"
 }
