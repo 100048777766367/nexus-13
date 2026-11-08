@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "District: The",
-        "Kamionna,",
         "County: Kamionna",
         "Kber:",
         "radio station",
@@ -99,7 +97,9 @@
         "Muhammad",
         "Tabataba'i: Muhammad",
         "Livonia",
-        "station: The"
+        "station: The",
+        "Pipra",
+        "Pipra Block"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -219,6 +219,7 @@
         "Thor <==[solberg:]==> Thor Solberg",
         "Łupiny, <==[masovian]==> Voivodeship: Łupiny",
         "Muhammad <==[husayn]==> Tabataba'i: Muhammad",
-        "Livonia <==[avenue]==> station: The"
+        "Livonia <==[avenue]==> station: The",
+        "Pipra <==[block:]==> Pipra Block"
     ]
 }
