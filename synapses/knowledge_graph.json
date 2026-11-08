@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "County: Kamionna",
-        "Kber:",
-        "radio station",
-        "Licensed",
         "Utah, United",
         "Rock",
         "(album): Rock",
@@ -99,7 +95,11 @@
         "Livonia",
         "station: The",
         "Pipra",
-        "Pipra Block"
+        "Pipra Block",
+        "Stiles",
+        "American politician",
+        "Served",
+        "Denver, Colorado"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -220,6 +220,8 @@
         "Łupiny, <==[masovian]==> Voivodeship: Łupiny",
         "Muhammad <==[husayn]==> Tabataba'i: Muhammad",
         "Livonia <==[avenue]==> station: The",
-        "Pipra <==[block:]==> Pipra Block"
+        "Pipra <==[block:]==> Pipra Block",
+        "Stiles <==[was]==> American politician",
+        "Served <==[mayor]==> Denver, Colorado"
     ]
 }
