@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "(album): Rock",
-        "Was",
         "Octo",
         "Groot:",
         "American series",
@@ -99,7 +97,9 @@
         "Served",
         "Denver, Colorado",
         "Lucy",
-        "and Sarah"
+        "and Sarah",
+        "Hyperbaric",
+        "hyperbaric stretcher"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -223,6 +223,7 @@
         "Pipra <==[block:]==> Pipra Block",
         "Stiles <==[was]==> American politician",
         "Served <==[mayor]==> Denver, Colorado",
-        "Lucy <==[chase]==> and Sarah"
+        "Lucy <==[chase]==> and Sarah",
+        "Hyperbaric <==[stretcher:]==> hyperbaric stretcher"
     ]
 }
