@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Octo",
-        "Groot:",
-        "American series",
-        "Tsodilo:",
         "Tsodilo Hills",
         "The",
         "(TV series):",
@@ -99,7 +95,11 @@
         "Lucy",
         "and Sarah",
         "Hyperbaric",
-        "hyperbaric stretcher"
+        "hyperbaric stretcher",
+        "Sports",
+        "Sports Active",
+        "Was",
+        "November 16,"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -224,6 +224,8 @@
         "Stiles <==[was]==> American politician",
         "Served <==[mayor]==> Denver, Colorado",
         "Lucy <==[chase]==> and Sarah",
-        "Hyperbaric <==[stretcher:]==> hyperbaric stretcher"
+        "Hyperbaric <==[stretcher:]==> hyperbaric stretcher",
+        "Sports <==[active]==> Sports Active",
+        "Was <==[released]==> November 16,"
     ]
 }
