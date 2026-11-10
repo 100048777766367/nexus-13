@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Cope Street",
-        "1901",
-        "Dame football",
-        "Elizabeth",
         "Dame Elizabeth",
         "Head: The",
         "Cathedral",
@@ -99,7 +95,11 @@
         "Zegris",
         "Zegris Palearctic",
         "This",
-        "was erected"
+        "was erected",
+        "Kelly",
+        "Kelly Lee",
+        "Previously,",
+        "was the"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -228,6 +228,8 @@
         "Sports <==[active]==> Sports Active",
         "Was <==[released]==> November 16,",
         "Zegris <==[(butterfly):]==> Zegris Palearctic",
-        "This <==[genus]==> was erected"
+        "This <==[genus]==> was erected",
+        "Kelly <==[graves:]==> Kelly Lee",
+        "Previously, <==[graves]==> was the"
     ]
 }
