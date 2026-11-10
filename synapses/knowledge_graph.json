@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Tsodilo Hills",
-        "The",
-        "(TV series):",
-        "Cope",
         "Cope Street",
         "1901",
         "Dame football",
@@ -99,7 +95,11 @@
         "Sports",
         "Sports Active",
         "Was",
-        "November 16,"
+        "November 16,",
+        "Zegris",
+        "Zegris Palearctic",
+        "This",
+        "was erected"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -226,6 +226,8 @@
         "Lucy <==[chase]==> and Sarah",
         "Hyperbaric <==[stretcher:]==> hyperbaric stretcher",
         "Sports <==[active]==> Sports Active",
-        "Was <==[released]==> November 16,"
+        "Was <==[released]==> November 16,",
+        "Zegris <==[(butterfly):]==> Zegris Palearctic",
+        "This <==[genus]==> was erected"
     ]
 }
