@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Dame Elizabeth",
-        "Head: The",
         "Cathedral",
         "The Cathedral",
         "are situated",
@@ -99,7 +97,9 @@
         "Kelly",
         "Kelly Lee",
         "Previously,",
-        "was the"
+        "was the",
+        "Nexus-13:",
+        "Tam Giới"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -230,6 +230,7 @@
         "Zegris <==[(butterfly):]==> Zegris Palearctic",
         "This <==[genus]==> was erected",
         "Kelly <==[graves:]==> Kelly Lee",
-        "Previously, <==[graves]==> was the"
+        "Previously, <==[graves]==> was the",
+        "Nexus-13: <==[thập]==> Tam Giới"
     ]
 }
