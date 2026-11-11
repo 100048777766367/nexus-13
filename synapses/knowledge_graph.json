@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "German Ivanovich",
-        "Nannodiplax:",
         "genus dragonflies",
         "There",
         "one known",
@@ -99,7 +97,9 @@
         "Charles",
         "Charles Emeny",
         "Calomeria",
-        "Calomeria amaranthoides,"
+        "Calomeria amaranthoides,",
+        "Euroschinus",
+        "Euroschinus falcatus"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -233,6 +233,7 @@
         "Previously, <==[graves]==> was the",
         "Nexus-13: <==[thập]==> Tam Giới",
         "Charles <==[emeny:]==> Charles Emeny",
-        "Calomeria <==[amaranthoides:]==> Calomeria amaranthoides,"
+        "Calomeria <==[amaranthoides:]==> Calomeria amaranthoides,",
+        "Euroschinus <==[falcatus:]==> Euroschinus falcatus"
     ]
 }
