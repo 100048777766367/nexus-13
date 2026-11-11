@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Cathedral",
-        "The Cathedral",
         "are situated",
         "German",
         "German Ivanovich",
@@ -99,7 +97,9 @@
         "Previously,",
         "was the",
         "Nexus-13:",
-        "Tam Giới"
+        "Tam Giới",
+        "Charles",
+        "Charles Emeny"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -231,6 +231,7 @@
         "This <==[genus]==> was erected",
         "Kelly <==[graves:]==> Kelly Lee",
         "Previously, <==[graves]==> was the",
-        "Nexus-13: <==[thập]==> Tam Giới"
+        "Nexus-13: <==[thập]==> Tam Giới",
+        "Charles <==[emeny:]==> Charles Emeny"
     ]
 }
