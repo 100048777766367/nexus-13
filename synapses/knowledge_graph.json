@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "are situated",
-        "German",
         "German Ivanovich",
         "Nannodiplax:",
         "genus dragonflies",
@@ -99,7 +97,9 @@
         "Nexus-13:",
         "Tam Giới",
         "Charles",
-        "Charles Emeny"
+        "Charles Emeny",
+        "Calomeria",
+        "Calomeria amaranthoides,"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -232,6 +232,7 @@
         "Kelly <==[graves:]==> Kelly Lee",
         "Previously, <==[graves]==> was the",
         "Nexus-13: <==[thập]==> Tam Giới",
-        "Charles <==[emeny:]==> Charles Emeny"
+        "Charles <==[emeny:]==> Charles Emeny",
+        "Calomeria <==[amaranthoides:]==> Calomeria amaranthoides,"
     ]
 }
