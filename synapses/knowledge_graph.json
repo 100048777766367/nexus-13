@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "genus dragonflies",
-        "There",
         "one known",
         "Jabbertalky:",
         "1981 video",
@@ -99,7 +97,9 @@
         "Calomeria",
         "Calomeria amaranthoides,",
         "Euroschinus",
-        "Euroschinus falcatus"
+        "Euroschinus falcatus",
+        "Love",
+        "(1917 film):"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -234,6 +234,7 @@
         "Nexus-13: <==[thập]==> Tam Giới",
         "Charles <==[emeny:]==> Charles Emeny",
         "Calomeria <==[amaranthoides:]==> Calomeria amaranthoides,",
-        "Euroschinus <==[falcatus:]==> Euroschinus falcatus"
+        "Euroschinus <==[falcatus:]==> Euroschinus falcatus",
+        "Love <==[letters]==> (1917 film):"
     ]
 }
