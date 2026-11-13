@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Harry",
-        "Harry Crosbie",
         "Known",
         "his",
         "Whitaker:",
@@ -99,7 +97,9 @@
         "Choma",
         "Choma District",
         "lies Choma",
-        "Zambian"
+        "Zambian",
+        "Hiroshi",
+        "Hiroshi Kisanuki"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -241,6 +241,7 @@
         "The <==[dutch]==> version was",
         "Choma <==[district:]==> Choma District",
         "The <==[capital]==> lies Choma",
-        "The <==[2022]==> Zambian"
+        "The <==[2022]==> Zambian",
+        "Hiroshi <==[kisanuki:]==> Hiroshi Kisanuki"
     ]
 }
