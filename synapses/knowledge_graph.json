@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Known",
-        "his",
-        "Whitaker:",
         "Kenneth Whitaker",
         "Auto",
         "Pilen",
@@ -99,7 +96,10 @@
         "lies Choma",
         "Zambian",
         "Hiroshi",
-        "Hiroshi Kisanuki"
+        "Hiroshi Kisanuki",
+        "Loreen",
+        "\"Loreen\" 1986",
+        "Frank Peterson,"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -242,6 +242,8 @@
         "Choma <==[district:]==> Choma District",
         "The <==[capital]==> lies Choma",
         "The <==[2022]==> Zambian",
-        "Hiroshi <==[kisanuki:]==> Hiroshi Kisanuki"
+        "Hiroshi <==[kisanuki:]==> Hiroshi Kisanuki",
+        "Loreen <==[(song):]==> \"Loreen\" 1986",
+        "Was <==[written]==> Frank Peterson,"
     ]
 }
