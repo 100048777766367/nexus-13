@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Deputy Chairman",
-        "Oppo",
-        "OPPO Android",
-        "announced China",
         "Harry",
         "Harry Crosbie",
         "Known",
@@ -99,7 +95,11 @@
         "1871: The",
         "1871 19th-century",
         "The",
-        "version was"
+        "version was",
+        "Choma",
+        "Choma District",
+        "lies Choma",
+        "Zambian"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -238,6 +238,9 @@
         "Love <==[letters]==> (1917 film):",
         "Feldgeschütz <==[ord]==> 1871: The",
         "Feldgeschütz <==[ord]==> 1871 19th-century",
-        "The <==[dutch]==> version was"
+        "The <==[dutch]==> version was",
+        "Choma <==[district:]==> Choma District",
+        "The <==[capital]==> lies Choma",
+        "The <==[2022]==> Zambian"
     ]
 }
