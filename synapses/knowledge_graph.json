@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Km)",
-        "and has",
-        "Milana",
         "Milana Iliosovna",
         "2025 Junior",
         "Vanikoro",
@@ -99,7 +96,10 @@
         "Matteo",
         "Matteo Aicardi",
         "Won",
-        "world title"
+        "world title",
+        "Appias",
+        "Appias nero,",
+        "occurs from"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -247,6 +247,8 @@
         "Was <==[written]==> Frank Peterson,",
         "Hammervatnet: <==[hammervatnet]==> lake Levanger",
         "Matteo <==[aicardi:]==> Matteo Aicardi",
-        "Won <==[the]==> world title"
+        "Won <==[the]==> world title",
+        "Appias <==[nero:]==> Appias nero,",
+        "The <==[species]==> occurs from"
     ]
 }
