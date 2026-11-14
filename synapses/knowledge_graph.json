@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Kenneth Whitaker",
-        "Auto",
         "Pilen",
         "manufacturing company",
         "Skirden",
@@ -99,7 +97,9 @@
         "Hiroshi Kisanuki",
         "Loreen",
         "\"Loreen\" 1986",
-        "Frank Peterson,"
+        "Frank Peterson,",
+        "Hammervatnet:",
+        "lake Levanger"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -244,6 +244,7 @@
         "The <==[2022]==> Zambian",
         "Hiroshi <==[kisanuki:]==> Hiroshi Kisanuki",
         "Loreen <==[(song):]==> \"Loreen\" 1986",
-        "Was <==[written]==> Frank Peterson,"
+        "Was <==[written]==> Frank Peterson,",
+        "Hammervatnet: <==[hammervatnet]==> lake Levanger"
     ]
 }
