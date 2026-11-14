@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Pilen",
-        "manufacturing company",
-        "Skirden",
-        "Skirden Beck",
         "Km)",
         "and has",
         "Milana",
@@ -99,7 +95,11 @@
         "\"Loreen\" 1986",
         "Frank Peterson,",
         "Hammervatnet:",
-        "lake Levanger"
+        "lake Levanger",
+        "Matteo",
+        "Matteo Aicardi",
+        "Won",
+        "world title"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -245,6 +245,8 @@
         "Hiroshi <==[kisanuki:]==> Hiroshi Kisanuki",
         "Loreen <==[(song):]==> \"Loreen\" 1986",
         "Was <==[written]==> Frank Peterson,",
-        "Hammervatnet: <==[hammervatnet]==> lake Levanger"
+        "Hammervatnet: <==[hammervatnet]==> lake Levanger",
+        "Matteo <==[aicardi:]==> Matteo Aicardi",
+        "Won <==[the]==> world title"
     ]
 }
