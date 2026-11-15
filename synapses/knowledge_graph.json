@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Brett",
-        "Brett Gabbert",
-        "Played",
         "football for",
         "North",
         "Hawaii: Waikāne,",
@@ -99,11 +96,12 @@
         "Dobrujan",
         "Dobrujan Arabs",
         "They",
-        "Dobruja"
+        "Dobruja",
+        "Shlomo",
+        "Shlomo Goldman,",
+        "Grand Rabbi"
     ],
     "edges": [
-        "Musée <==[des]==> Beaux-Arts Mulhouse:",
-        "Originated <==[with]==> the Société",
         "Prince <==[(musician):]==> Prince Rogers",
         "Often <==[credited]==> one",
         "The <==[steve]==> Harvey Morning",
@@ -251,6 +249,8 @@
         "Thuli–manyange <==[dam:]==> Thuli–Manyange (Elliot)",
         "Tukojirao <==[holkar]==> III: Maharajadhiraj",
         "Dobrujan <==[arabs:]==> Dobrujan Arabs",
-        "They <==[settled]==> Dobruja"
+        "They <==[settled]==> Dobruja",
+        "Shlomo <==[goldman:]==> Shlomo Goldman,",
+        "Was <==[the]==> Grand Rabbi"
     ]
 }
