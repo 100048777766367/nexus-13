@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Vanikoro",
-        "Vanikoro ligata",
         "Albania",
         "2011 World",
         "Joy",
@@ -99,7 +97,9 @@
         "Appias nero,",
         "occurs from",
         "Thuli–manyange",
-        "Thuli–Manyange (Elliot)"
+        "Thuli–Manyange (Elliot)",
+        "Tukojirao",
+        "III: Maharajadhiraj"
     ],
     "edges": [
         "Eve <==[ewing:]==> Eve Louise",
@@ -250,6 +250,7 @@
         "Won <==[the]==> world title",
         "Appias <==[nero:]==> Appias nero,",
         "The <==[species]==> occurs from",
-        "Thuli–manyange <==[dam:]==> Thuli–Manyange (Elliot)"
+        "Thuli–manyange <==[dam:]==> Thuli–Manyange (Elliot)",
+        "Tukojirao <==[holkar]==> III: Maharajadhiraj"
     ]
 }
