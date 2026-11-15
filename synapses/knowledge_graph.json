@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Albania",
-        "2011 World",
-        "Joy",
-        "Joy Berry",
         "Brett",
         "Brett Gabbert",
         "Played",
@@ -99,11 +95,13 @@
         "Thuli–manyange",
         "Thuli–Manyange (Elliot)",
         "Tukojirao",
-        "III: Maharajadhiraj"
+        "III: Maharajadhiraj",
+        "Dobrujan",
+        "Dobrujan Arabs",
+        "They",
+        "Dobruja"
     ],
     "edges": [
-        "Eve <==[ewing:]==> Eve Louise",
-        "Trsino: <==[trsino]==> village the",
         "Musée <==[des]==> Beaux-Arts Mulhouse:",
         "Originated <==[with]==> the Société",
         "Prince <==[(musician):]==> Prince Rogers",
@@ -251,6 +249,8 @@
         "Appias <==[nero:]==> Appias nero,",
         "The <==[species]==> occurs from",
         "Thuli–manyange <==[dam:]==> Thuli–Manyange (Elliot)",
-        "Tukojirao <==[holkar]==> III: Maharajadhiraj"
+        "Tukojirao <==[holkar]==> III: Maharajadhiraj",
+        "Dobrujan <==[arabs:]==> Dobrujan Arabs",
+        "They <==[settled]==> Dobruja"
     ]
 }
