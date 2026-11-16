@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "football for",
-        "North",
         "Hawaii: Waikāne,",
         "Phra",
         "district: Phra",
@@ -99,10 +97,11 @@
         "Dobruja",
         "Shlomo",
         "Shlomo Goldman,",
-        "Grand Rabbi"
+        "Grand Rabbi",
+        "South",
+        "China: South"
     ],
     "edges": [
-        "Prince <==[(musician):]==> Prince Rogers",
         "Often <==[credited]==> one",
         "The <==[steve]==> Harvey Morning",
         "Grizzly <==[man]==> (soundtrack): Grizzly",
@@ -251,6 +250,7 @@
         "Dobrujan <==[arabs:]==> Dobrujan Arabs",
         "They <==[settled]==> Dobruja",
         "Shlomo <==[goldman:]==> Shlomo Goldman,",
-        "Was <==[the]==> Grand Rabbi"
+        "Was <==[the]==> Grand Rabbi",
+        "South <==[central]==> China: South"
     ]
 }
