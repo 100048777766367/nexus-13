@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "After",
-        "liquidation the",
-        "Parcoul:",
         "former commune",
         "January",
         "was merged",
@@ -99,11 +96,12 @@
         "Justin",
         "Justin Mathieu",
         "Martin",
-        "Martin Mølster"
+        "Martin Mølster",
+        "Hornnes",
+        "Hornnes village",
+        "located within"
     ],
     "edges": [
-        "Gonterie-boulouneix: <==[gonterie-boulouneix]==> former commune",
-        "Barendra <==[krushna]==> Dhal:",
         "Barendra <==[krushna]==> Dhal was",
         "Was <==[born]==> Charchika the",
         "Megan <==[anderson]==> (fighter): Megan",
@@ -251,6 +249,8 @@
         "South <==[central]==> China: South",
         "Guioa <==[semiglauca:]==> Guioa semiglauca,",
         "Justin <==[mathieu:]==> Justin Mathieu",
-        "Martin <==[mølster:]==> Martin Mølster"
+        "Martin <==[mølster:]==> Martin Mølster",
+        "Hornnes <==[(village):]==> Hornnes village",
+        "The <==[village]==> located within"
     ]
 }
