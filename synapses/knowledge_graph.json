@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Lopushne,",
-        "urban hromada,",
         "After",
         "liquidation the",
         "Parcoul:",
@@ -99,10 +97,11 @@
         "Guioa",
         "Guioa semiglauca,",
         "Justin",
-        "Justin Mathieu"
+        "Justin Mathieu",
+        "Martin",
+        "Martin Mølster"
     ],
     "edges": [
-        "Grizzly <==[man]==> (soundtrack): Grizzly",
         "Gonterie-boulouneix: <==[gonterie-boulouneix]==> former commune",
         "Barendra <==[krushna]==> Dhal:",
         "Barendra <==[krushna]==> Dhal was",
@@ -251,6 +250,7 @@
         "Was <==[the]==> Grand Rabbi",
         "South <==[central]==> China: South",
         "Guioa <==[semiglauca:]==> Guioa semiglauca,",
-        "Justin <==[mathieu:]==> Justin Mathieu"
+        "Justin <==[mathieu:]==> Justin Mathieu",
+        "Martin <==[mølster:]==> Martin Mølster"
     ]
 }
