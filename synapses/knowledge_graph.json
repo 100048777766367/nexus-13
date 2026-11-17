@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "district: Phra",
-        "district Bangkok,",
         "Lopushne,",
         "urban hromada,",
         "After",
@@ -99,10 +97,11 @@
         "South",
         "China: South",
         "Guioa",
-        "Guioa semiglauca,"
+        "Guioa semiglauca,",
+        "Justin",
+        "Justin Mathieu"
     ],
     "edges": [
-        "The <==[steve]==> Harvey Morning",
         "Grizzly <==[man]==> (soundtrack): Grizzly",
         "Gonterie-boulouneix: <==[gonterie-boulouneix]==> former commune",
         "Barendra <==[krushna]==> Dhal:",
@@ -251,6 +250,7 @@
         "Shlomo <==[goldman:]==> Shlomo Goldman,",
         "Was <==[the]==> Grand Rabbi",
         "South <==[central]==> China: South",
-        "Guioa <==[semiglauca:]==> Guioa semiglauca,"
+        "Guioa <==[semiglauca:]==> Guioa semiglauca,",
+        "Justin <==[mathieu:]==> Justin Mathieu"
     ]
 }
