@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "former commune",
-        "January",
         "was merged",
         "Aryabhatta",
         "Institute Observational",
@@ -99,10 +97,11 @@
         "Martin Mølster",
         "Hornnes",
         "Hornnes village",
-        "located within"
+        "located within",
+        "Pygarctia",
+        "Pygarctia abdominalis,"
     ],
     "edges": [
-        "Barendra <==[krushna]==> Dhal was",
         "Was <==[born]==> Charchika the",
         "Megan <==[anderson]==> (fighter): Megan",
         "Hyperbola: <==[mathematics,]==> hyperbola type",
@@ -251,6 +250,7 @@
         "Justin <==[mathieu:]==> Justin Mathieu",
         "Martin <==[mølster:]==> Martin Mølster",
         "Hornnes <==[(village):]==> Hornnes village",
-        "The <==[village]==> located within"
+        "The <==[village]==> located within",
+        "Pygarctia <==[abdominalis:]==> Pygarctia abdominalis,"
     ]
 }
