@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "was merged",
-        "Aryabhatta",
-        "Institute Observational",
         "Veterans",
         "The Veterans",
         "Avial",
@@ -99,11 +96,12 @@
         "Hornnes village",
         "located within",
         "Pygarctia",
-        "Pygarctia abdominalis,"
+        "Pygarctia abdominalis,",
+        "Vandzene:",
+        "village Vandzene",
+        "elevatio"
     ],
     "edges": [
-        "Was <==[born]==> Charchika the",
-        "Megan <==[anderson]==> (fighter): Megan",
         "Hyperbola: <==[mathematics,]==> hyperbola type",
         "Majma <==[al-zawa'id:]==> Majmu' al-Zawa'id",
         "Duggirala <==[mandal:]==> Duggirala mandal",
@@ -251,6 +249,8 @@
         "Martin <==[mølster:]==> Martin Mølster",
         "Hornnes <==[(village):]==> Hornnes village",
         "The <==[village]==> located within",
-        "Pygarctia <==[abdominalis:]==> Pygarctia abdominalis,"
+        "Pygarctia <==[abdominalis:]==> Pygarctia abdominalis,",
+        "Vandzene: <==[vandzene]==> village Vandzene",
+        "The <==[community's]==> elevatio"
     ]
 }
