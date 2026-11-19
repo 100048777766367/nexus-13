@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Veterans",
-        "The Veterans",
         "Avial",
         "Avial NV,",
         "Operated",
@@ -99,10 +97,11 @@
         "Pygarctia abdominalis,",
         "Vandzene:",
         "village Vandzene",
-        "elevatio"
+        "elevatio",
+        "Vulvar",
+        "neoplasia: Vulvar"
     ],
     "edges": [
-        "Hyperbola: <==[mathematics,]==> hyperbola type",
         "Majma <==[al-zawa'id:]==> Majmu' al-Zawa'id",
         "Duggirala <==[mandal:]==> Duggirala mandal",
         "Under <==[the]==> admi",
@@ -251,6 +250,7 @@
         "The <==[village]==> located within",
         "Pygarctia <==[abdominalis:]==> Pygarctia abdominalis,",
         "Vandzene: <==[vandzene]==> village Vandzene",
-        "The <==[community's]==> elevatio"
+        "The <==[community's]==> elevatio",
+        "Vulvar <==[intraepithelial]==> neoplasia: Vulvar"
     ]
 }
