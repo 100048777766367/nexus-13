@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Avial",
-        "Avial NV,",
-        "Operated",
-        "passenger, and",
         "Its",
         "base",
         "Addressograph:",
@@ -99,11 +95,13 @@
         "village Vandzene",
         "elevatio",
         "Vulvar",
-        "neoplasia: Vulvar"
+        "neoplasia: Vulvar",
+        "Archaeology",
+        "Archaeology educational",
+        "Works",
+        "people archaeology"
     ],
     "edges": [
-        "Majma <==[al-zawa'id:]==> Majmu' al-Zawa'id",
-        "Duggirala <==[mandal:]==> Duggirala mandal",
         "Under <==[the]==> admi",
         "Atch <==[lench:]==> Atch Lench",
         "Genghis <==[blues:]==> Genghis Blues",
@@ -251,6 +249,8 @@
         "Pygarctia <==[abdominalis:]==> Pygarctia abdominalis,",
         "Vandzene: <==[vandzene]==> village Vandzene",
         "The <==[community's]==> elevatio",
-        "Vulvar <==[intraepithelial]==> neoplasia: Vulvar"
+        "Vulvar <==[intraepithelial]==> neoplasia: Vulvar",
+        "Archaeology <==[uk:]==> Archaeology educational",
+        "Works <==[involve]==> people archaeology"
     ]
 }
