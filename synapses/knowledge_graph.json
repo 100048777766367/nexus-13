@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Its",
-        "base",
         "Addressograph:",
         "address labeler",
         "Thor",
@@ -99,10 +97,11 @@
         "Archaeology",
         "Archaeology educational",
         "Works",
-        "people archaeology"
+        "people archaeology",
+        "Saint-thomas-la-garde:",
+        "commune the"
     ],
     "edges": [
-        "Under <==[the]==> admi",
         "Atch <==[lench:]==> Atch Lench",
         "Genghis <==[blues:]==> Genghis Blues",
         "Centers <==[the]==> journey blind",
@@ -251,6 +250,7 @@
         "The <==[community's]==> elevatio",
         "Vulvar <==[intraepithelial]==> neoplasia: Vulvar",
         "Archaeology <==[uk:]==> Archaeology educational",
-        "Works <==[involve]==> people archaeology"
+        "Works <==[involve]==> people archaeology",
+        "Saint-thomas-la-garde: <==[saint-thomas-la-garde]==> commune the"
     ]
 }
