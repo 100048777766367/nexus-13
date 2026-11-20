@@ -1,11 +1,5 @@
 {
     "nodes": [
-        "Addressograph:",
-        "address labeler",
-        "Thor",
-        "Thor Solberg",
-        "Łupiny,",
-        "Voivodeship: Łupiny",
         "Muhammad",
         "Tabataba'i: Muhammad",
         "Livonia",
@@ -99,12 +93,15 @@
         "Works",
         "people archaeology",
         "Saint-thomas-la-garde:",
-        "commune the"
+        "commune the",
+        "Ken",
+        "Kenneth (Ken)",
+        "Hodges",
+        "judge the",
+        "Also",
+        "Dougherty County"
     ],
     "edges": [
-        "Atch <==[lench:]==> Atch Lench",
-        "Genghis <==[blues:]==> Genghis Blues",
-        "Centers <==[the]==> journey blind",
         "United <==[nations]==> Security Council",
         "Muraighib: <==[hillat]==> al-Muraiqib, Najdi",
         "Anton <==[kalaytan:]==> Anton Yuriyovych",
@@ -251,6 +248,9 @@
         "Vulvar <==[intraepithelial]==> neoplasia: Vulvar",
         "Archaeology <==[uk:]==> Archaeology educational",
         "Works <==[involve]==> people archaeology",
-        "Saint-thomas-la-garde: <==[saint-thomas-la-garde]==> commune the"
+        "Saint-thomas-la-garde: <==[saint-thomas-la-garde]==> commune the",
+        "Ken <==[hodges:]==> Kenneth (Ken)",
+        "Hodges <==[iii]==> judge the",
+        "Also <==[served]==> Dougherty County"
     ]
 }
