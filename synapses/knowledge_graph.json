@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Muhammad",
-        "Tabataba'i: Muhammad",
         "Livonia",
         "station: The",
         "Pipra",
@@ -99,10 +97,11 @@
         "Hodges",
         "judge the",
         "Also",
-        "Dougherty County"
+        "Dougherty County",
+        "Hong",
+        "Hong Soo-hwan"
     ],
     "edges": [
-        "United <==[nations]==> Security Council",
         "Muraighib: <==[hillat]==> al-Muraiqib, Najdi",
         "Anton <==[kalaytan:]==> Anton Yuriyovych",
         "Mickey <==[fields:]==> Wilfred \"Mickey\"",
@@ -251,6 +250,7 @@
         "Saint-thomas-la-garde: <==[saint-thomas-la-garde]==> commune the",
         "Ken <==[hodges:]==> Kenneth (Ken)",
         "Hodges <==[iii]==> judge the",
-        "Also <==[served]==> Dougherty County"
+        "Also <==[served]==> Dougherty County",
+        "Hong <==[soo-hwan:]==> Hong Soo-hwan"
     ]
 }
