@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Served",
-        "Denver, Colorado",
         "Lucy",
         "and Sarah",
         "Hyperbaric",
@@ -99,10 +97,11 @@
         "Though",
         "known for",
         "Silver",
-        "(band): Silver"
+        "(band): Silver",
+        "Ciudad",
+        "Ciudad Nezahualcóyotl,"
     ],
     "edges": [
-        "Kaltenholzhausen: <==[kaltenholzhausen]==> municipality the",
         "Colle <==[giacone:]==> Colle Giacone",
         "Princess <==[the]==> Dark: Princess",
         "Bay <==[(horse):]==> Bay hair",
@@ -251,6 +250,7 @@
         "Hong <==[soo-hwan:]==> Hong Soo-hwan",
         "Nora <==[o'connor:]==> Nora O’Connor",
         "Though <==[primarily]==> known for",
-        "Silver <==[rocket]==> (band): Silver"
+        "Silver <==[rocket]==> (band): Silver",
+        "Ciudad <==[nezahualcóyotl:]==> Ciudad Nezahualcóyotl,"
     ]
 }
