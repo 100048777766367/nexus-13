@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Stiles",
-        "American politician",
         "Served",
         "Denver, Colorado",
         "Lucy",
@@ -99,10 +97,11 @@
         "Nora",
         "Nora O’Connor",
         "Though",
-        "known for"
+        "known for",
+        "Silver",
+        "(band): Silver"
     ],
     "edges": [
-        "Mickey <==[fields:]==> Wilfred \"Mickey\"",
         "Kaltenholzhausen: <==[kaltenholzhausen]==> municipality the",
         "Colle <==[giacone:]==> Colle Giacone",
         "Princess <==[the]==> Dark: Princess",
@@ -251,6 +250,7 @@
         "Also <==[served]==> Dougherty County",
         "Hong <==[soo-hwan:]==> Hong Soo-hwan",
         "Nora <==[o'connor:]==> Nora O’Connor",
-        "Though <==[primarily]==> known for"
+        "Though <==[primarily]==> known for",
+        "Silver <==[rocket]==> (band): Silver"
     ]
 }
