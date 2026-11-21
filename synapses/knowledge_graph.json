@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Livonia",
-        "station: The",
-        "Pipra",
-        "Pipra Block",
         "Stiles",
         "American politician",
         "Served",
@@ -99,11 +95,13 @@
         "Also",
         "Dougherty County",
         "Hong",
-        "Hong Soo-hwan"
+        "Hong Soo-hwan",
+        "Nora",
+        "Nora O’Connor",
+        "Though",
+        "known for"
     ],
     "edges": [
-        "Muraighib: <==[hillat]==> al-Muraiqib, Najdi",
-        "Anton <==[kalaytan:]==> Anton Yuriyovych",
         "Mickey <==[fields:]==> Wilfred \"Mickey\"",
         "Kaltenholzhausen: <==[kaltenholzhausen]==> municipality the",
         "Colle <==[giacone:]==> Colle Giacone",
@@ -251,6 +249,8 @@
         "Ken <==[hodges:]==> Kenneth (Ken)",
         "Hodges <==[iii]==> judge the",
         "Also <==[served]==> Dougherty County",
-        "Hong <==[soo-hwan:]==> Hong Soo-hwan"
+        "Hong <==[soo-hwan:]==> Hong Soo-hwan",
+        "Nora <==[o'connor:]==> Nora O’Connor",
+        "Though <==[primarily]==> known for"
     ]
 }
