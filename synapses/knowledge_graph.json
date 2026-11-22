@@ -1,10 +1,5 @@
 {
     "nodes": [
-        "Lucy",
-        "and Sarah",
-        "Hyperbaric",
-        "hyperbaric stretcher",
-        "Sports",
         "Sports Active",
         "Was",
         "November 16,",
@@ -99,12 +94,14 @@
         "Silver",
         "(band): Silver",
         "Ciudad",
-        "Ciudad Nezahualcóyotl,"
+        "Ciudad Nezahualcóyotl,",
+        "Tucker's",
+        "Bermuda: Tucker's",
+        "George's",
+        "Bermuda the",
+        "part"
     ],
     "edges": [
-        "Colle <==[giacone:]==> Colle Giacone",
-        "Princess <==[the]==> Dark: Princess",
-        "Bay <==[(horse):]==> Bay hair",
         "Haviv <==[ohayon:]==> Haviv Ohayon",
         "Tca <==[ground:]==> The TCA",
         "Herz: <==[carl]==> Samuel Herz",
@@ -251,6 +248,9 @@
         "Nora <==[o'connor:]==> Nora O’Connor",
         "Though <==[primarily]==> known for",
         "Silver <==[rocket]==> (band): Silver",
-        "Ciudad <==[nezahualcóyotl:]==> Ciudad Nezahualcóyotl,"
+        "Ciudad <==[nezahualcóyotl:]==> Ciudad Nezahualcóyotl,",
+        "Tucker's <==[town,]==> Bermuda: Tucker's",
+        "George's <==[parish,]==> Bermuda the",
+        "The <==[only]==> part"
     ]
 }
