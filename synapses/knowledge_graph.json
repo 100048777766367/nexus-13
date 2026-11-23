@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Zegris",
-        "Zegris Palearctic",
-        "This",
-        "was erected",
         "Kelly",
         "Kelly Lee",
         "Previously,",
@@ -99,11 +95,13 @@
         "part",
         "Rimplas:",
         "Terminalia",
-        "Terminalia archipelagi"
+        "Terminalia archipelagi",
+        "Beautiful",
+        "(Andain song):",
+        "First",
+        "Tiësto's compilation"
     ],
     "edges": [
-        "Herz: <==[carl]==> Samuel Herz",
-        "His <==[name]==> attached the",
         "Prague <==[championship:]==> The Veolia",
         "The <==[harbour:]==> Yantai Shimao",
         "The <==[harbour]==> 323-metre (1,060",
@@ -251,6 +249,8 @@
         "George's <==[parish,]==> Bermuda the",
         "The <==[only]==> part",
         "Rimplas: <==[rimplas]==> commune the",
-        "Terminalia <==[archipelagi:]==> Terminalia archipelagi"
+        "Terminalia <==[archipelagi:]==> Terminalia archipelagi",
+        "Beautiful <==[things]==> (Andain song):",
+        "First <==[appeared]==> Tiësto's compilation"
     ]
 }
