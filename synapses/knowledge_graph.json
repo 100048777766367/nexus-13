@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Was",
-        "November 16,",
         "Zegris",
         "Zegris Palearctic",
         "This",
@@ -99,10 +97,11 @@
         "George's",
         "Bermuda the",
         "part",
-        "Rimplas:"
+        "Rimplas:",
+        "Terminalia",
+        "Terminalia archipelagi"
     ],
     "edges": [
-        "Tca <==[ground:]==> The TCA",
         "Herz: <==[carl]==> Samuel Herz",
         "His <==[name]==> attached the",
         "Prague <==[championship:]==> The Veolia",
@@ -251,6 +250,7 @@
         "Tucker's <==[town,]==> Bermuda: Tucker's",
         "George's <==[parish,]==> Bermuda the",
         "The <==[only]==> part",
-        "Rimplas: <==[rimplas]==> commune the"
+        "Rimplas: <==[rimplas]==> commune the",
+        "Terminalia <==[archipelagi:]==> Terminalia archipelagi"
     ]
 }
