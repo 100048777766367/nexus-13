@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Nexus-13:",
-        "Tam Giới",
         "Charles",
         "Charles Emeny",
         "Calomeria",
@@ -99,10 +97,11 @@
         "United",
         "Post Office",
         "Post",
-        "Bay Shore,"
+        "Bay Shore,",
+        "Mary",
+        "Chua: Mary"
     ],
     "edges": [
-        "The <==[harbour]==> 323-metre (1,060",
         "Tinajo <==[(municipality):]==> Tinajo municipality",
         "The <==[door]==> (Charlie Daniels",
         "Released <==[march]==> 14, 1994",
@@ -251,6 +250,7 @@
         "Beautiful <==[things]==> (Andain song):",
         "First <==[appeared]==> Tiësto's compilation",
         "United <==[states]==> Post Office",
-        "Post <==[office]==> Bay Shore,"
+        "Post <==[office]==> Bay Shore,",
+        "Mary <==[cherry]==> Chua: Mary"
     ]
 }
