@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Charles",
-        "Charles Emeny",
-        "Calomeria",
-        "Calomeria amaranthoides,",
         "Euroschinus",
         "Euroschinus falcatus",
         "Love",
@@ -99,11 +95,13 @@
         "Post",
         "Bay Shore,",
         "Mary",
-        "Chua: Mary"
+        "Chua: Mary",
+        "Einsiedel",
+        "Einsiedel Dam",
+        "Its",
+        "supplies drinking"
     ],
     "edges": [
-        "Tinajo <==[(municipality):]==> Tinajo municipality",
-        "The <==[door]==> (Charlie Daniels",
         "Released <==[march]==> 14, 1994",
         "Far <==[from]==> the Lies:",
         "Bill <==[flanagan:]==> Bill Flanagan",
@@ -251,6 +249,8 @@
         "First <==[appeared]==> Tiësto's compilation",
         "United <==[states]==> Post Office",
         "Post <==[office]==> Bay Shore,",
-        "Mary <==[cherry]==> Chua: Mary"
+        "Mary <==[cherry]==> Chua: Mary",
+        "Einsiedel <==[dam:]==> Einsiedel Dam",
+        "Its <==[reservoir]==> supplies drinking"
     ]
 }
