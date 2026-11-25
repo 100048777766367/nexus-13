@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Euroschinus",
-        "Euroschinus falcatus",
         "Love",
         "(1917 film):",
         "Feldgeschütz",
@@ -99,10 +97,11 @@
         "Einsiedel",
         "Einsiedel Dam",
         "Its",
-        "supplies drinking"
+        "supplies drinking",
+        "Brett",
+        "Brett Elias"
     ],
     "edges": [
-        "Released <==[march]==> 14, 1994",
         "Far <==[from]==> the Lies:",
         "Bill <==[flanagan:]==> Bill Flanagan",
         "Was <==[born]==> Rhode Island",
@@ -251,6 +250,7 @@
         "Post <==[office]==> Bay Shore,",
         "Mary <==[cherry]==> Chua: Mary",
         "Einsiedel <==[dam:]==> Einsiedel Dam",
-        "Its <==[reservoir]==> supplies drinking"
+        "Its <==[reservoir]==> supplies drinking",
+        "Brett <==[bodine:]==> Brett Elias"
     ]
 }
