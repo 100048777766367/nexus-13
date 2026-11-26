@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "(1917 film):",
-        "Feldgeschütz",
-        "1871: The",
-        "1871 19th-century",
         "The",
         "version was",
         "Choma",
@@ -99,11 +95,13 @@
         "supplies drinking",
         "Brett",
         "Brett Elias",
-        "\"The Quadroons\""
+        "\"The Quadroons\"",
+        "Francisco",
+        "Rodríguez (architect):",
+        "Became",
+        "youngest professor"
     ],
     "edges": [
-        "Bill <==[flanagan:]==> Bill Flanagan",
-        "Was <==[born]==> Rhode Island",
         "Cerotainia <==[macrocera:]==> Cerotainia macrocera",
         "Queen <==[alberni:]==> Queen Alberni",
         "Soviet <==[aircraft]==> carrier Ulyanovsk:",
@@ -251,6 +249,8 @@
         "Einsiedel <==[dam:]==> Einsiedel Dam",
         "Its <==[reservoir]==> supplies drinking",
         "Brett <==[bodine:]==> Brett Elias",
-        "The <==[quadroons:]==> \"The Quadroons\""
+        "The <==[quadroons:]==> \"The Quadroons\"",
+        "Francisco <==[gonzález]==> Rodríguez (architect):",
+        "Became <==[the]==> youngest professor"
     ]
 }
