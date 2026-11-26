@@ -1,6 +1,5 @@
 {
     "nodes": [
-        "Love",
         "(1917 film):",
         "Feldgeschütz",
         "1871: The",
@@ -99,10 +98,10 @@
         "Its",
         "supplies drinking",
         "Brett",
-        "Brett Elias"
+        "Brett Elias",
+        "\"The Quadroons\""
     ],
     "edges": [
-        "Far <==[from]==> the Lies:",
         "Bill <==[flanagan:]==> Bill Flanagan",
         "Was <==[born]==> Rhode Island",
         "Cerotainia <==[macrocera:]==> Cerotainia macrocera",
@@ -251,6 +250,7 @@
         "Mary <==[cherry]==> Chua: Mary",
         "Einsiedel <==[dam:]==> Einsiedel Dam",
         "Its <==[reservoir]==> supplies drinking",
-        "Brett <==[bodine:]==> Brett Elias"
+        "Brett <==[bodine:]==> Brett Elias",
+        "The <==[quadroons:]==> \"The Quadroons\""
     ]
 }
