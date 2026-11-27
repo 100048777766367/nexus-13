@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "The",
-        "version was",
-        "Choma",
         "Choma District",
         "lies Choma",
         "Zambian",
@@ -99,11 +96,12 @@
         "Francisco",
         "Rodríguez (architect):",
         "Became",
-        "youngest professor"
+        "youngest professor",
+        "Stephen",
+        "(chemist): Stephen",
+        "Tsung-Dao Lee,"
     ],
     "edges": [
-        "Cerotainia <==[macrocera:]==> Cerotainia macrocera",
-        "Queen <==[alberni:]==> Queen Alberni",
         "Soviet <==[aircraft]==> carrier Ulyanovsk:",
         "Was <==[stobar]==> aircraft carrier",
         "Dragon's <==[hall:]==> Dragon's Hall",
@@ -251,6 +249,8 @@
         "Brett <==[bodine:]==> Brett Elias",
         "The <==[quadroons:]==> \"The Quadroons\"",
         "Francisco <==[gonzález]==> Rodríguez (architect):",
-        "Became <==[the]==> youngest professor"
+        "Became <==[the]==> youngest professor",
+        "Stephen <==[lee]==> (chemist): Stephen",
+        "The <==[son]==> Tsung-Dao Lee,"
     ]
 }
