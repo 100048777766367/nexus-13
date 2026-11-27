@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Choma District",
-        "lies Choma",
         "Zambian",
         "Hiroshi",
         "Hiroshi Kisanuki",
@@ -99,10 +97,11 @@
         "youngest professor",
         "Stephen",
         "(chemist): Stephen",
-        "Tsung-Dao Lee,"
+        "Tsung-Dao Lee,",
+        "Kevin",
+        "Karl Kevin"
     ],
     "edges": [
-        "Soviet <==[aircraft]==> carrier Ulyanovsk:",
         "Was <==[stobar]==> aircraft carrier",
         "Dragon's <==[hall:]==> Dragon's Hall",
         "Nikolai <==[annensky:]==> Nikolai Feodorovich",
@@ -251,6 +250,7 @@
         "Francisco <==[gonzález]==> Rodríguez (architect):",
         "Became <==[the]==> youngest professor",
         "Stephen <==[lee]==> (chemist): Stephen",
-        "The <==[son]==> Tsung-Dao Lee,"
+        "The <==[son]==> Tsung-Dao Lee,",
+        "Kevin <==[quiambao:]==> Karl Kevin"
     ]
 }
