@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "\"Loreen\" 1986",
-        "Frank Peterson,",
         "Hammervatnet:",
         "lake Levanger",
         "Matteo",
@@ -99,10 +97,11 @@
         "Libya",
         "Force: The",
         "François",
-        "François Durand"
+        "François Durand",
+        "Lloyds",
+        "Act 1998:"
     ],
     "edges": [
-        "Nikolai <==[annensky:]==> Nikolai Feodorovich",
         "Was <==[member]==> the populist",
         "Kétou, <==[benin:]==> Kétou Yoruba",
         "True <==[that:]==> True That",
@@ -251,6 +250,7 @@
         "The <==[son]==> Tsung-Dao Lee,",
         "Kevin <==[quiambao:]==> Karl Kevin",
         "Libya <==[shield]==> Force: The",
-        "François <==[santoni:]==> François Durand"
+        "François <==[santoni:]==> François Durand",
+        "Lloyds <==[tsb]==> Act 1998:"
     ]
 }
