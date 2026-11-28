@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Hiroshi Kisanuki",
-        "Loreen",
         "\"Loreen\" 1986",
         "Frank Peterson,",
         "Hammervatnet:",
@@ -99,10 +97,11 @@
         "Kevin",
         "Karl Kevin",
         "Libya",
-        "Force: The"
+        "Force: The",
+        "François",
+        "François Durand"
     ],
     "edges": [
-        "Dragon's <==[hall:]==> Dragon's Hall",
         "Nikolai <==[annensky:]==> Nikolai Feodorovich",
         "Was <==[member]==> the populist",
         "Kétou, <==[benin:]==> Kétou Yoruba",
@@ -251,6 +250,7 @@
         "Stephen <==[lee]==> (chemist): Stephen",
         "The <==[son]==> Tsung-Dao Lee,",
         "Kevin <==[quiambao:]==> Karl Kevin",
-        "Libya <==[shield]==> Force: The"
+        "Libya <==[shield]==> Force: The",
+        "François <==[santoni:]==> François Durand"
     ]
 }
