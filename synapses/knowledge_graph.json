@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Zambian",
-        "Hiroshi",
         "Hiroshi Kisanuki",
         "Loreen",
         "\"Loreen\" 1986",
@@ -99,10 +97,11 @@
         "(chemist): Stephen",
         "Tsung-Dao Lee,",
         "Kevin",
-        "Karl Kevin"
+        "Karl Kevin",
+        "Libya",
+        "Force: The"
     ],
     "edges": [
-        "Was <==[stobar]==> aircraft carrier",
         "Dragon's <==[hall:]==> Dragon's Hall",
         "Nikolai <==[annensky:]==> Nikolai Feodorovich",
         "Was <==[member]==> the populist",
@@ -251,6 +250,7 @@
         "Became <==[the]==> youngest professor",
         "Stephen <==[lee]==> (chemist): Stephen",
         "The <==[son]==> Tsung-Dao Lee,",
-        "Kevin <==[quiambao:]==> Karl Kevin"
+        "Kevin <==[quiambao:]==> Karl Kevin",
+        "Libya <==[shield]==> Force: The"
     ]
 }
